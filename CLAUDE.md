@@ -21,7 +21,10 @@ html/
     text.txt                  ← combined extracted text (reference)
   stevens-canyon/
     index.html                ← Stevens Canyon & Baker Route (stub)
-caltopo-extension/            ← Chrome extension for CalTopo (in progress, being specced)
+caltopo-extension/            ← Chrome extension for batch-adding CalTopo markers
+  manifest.json               ← Manifest V3 config
+  popup.html                  ← Extension popup UI
+  popup.js                    ← Map ID detection, CSV parsing, API calls
 extract.py                    ← PDF/EPUB text extractor. Done. Don't modify unless asked.
 output/                       ← raw extractor output. Don't edit — regenerate via extract.py.
 ```
@@ -47,7 +50,17 @@ Maps can be displayed side-by-side with printed book maps using a `.map-pair` fl
 
 ### CalTopo Extension
 
-A Chrome extension (in `caltopo-extension/`) for adding waypoints and markers to CalTopo maps more efficiently. Currently being specced out — no implementation yet.
+A Chrome extension (Manifest V3) in `caltopo-extension/` for batch-adding markers to CalTopo maps from CSV input.
+
+**Files:** `manifest.json`, `popup.html`, `popup.js` — no content script, no build step.
+
+**How it works:**
+- Popup reads the active tab URL to extract the CalTopo map ID (`caltopo.com/m/{id}` or `caltopo.com/map/{id}`)
+- User pastes CSV in `name,lat,lon` format (one marker per line)
+- Each marker is POSTed as a GeoJSON Feature to `POST /api/v1/map/{mapId}/Marker/` with `Content-Type: application/x-www-form-urlencoded` and body `json={encoded GeoJSON}`
+- `host_permissions` on `caltopo.com` lets the browser include session cookies — no API key needed
+- GeoJSON coordinates use `[longitude, latitude]` order (swapped from the CSV input)
+- Results show per-marker success/failure in the popup
 
 ### Trip Page Structure
 
@@ -63,4 +76,4 @@ For the Muddy Creek trip, sections are:
 - Multi-trip nav implemented via `trips.js`
 - Trip pages reorganized into per-trip directories
 - Stevens Canyon stub page created
-- CalTopo extension: being specced, directory exists but no code yet
+- CalTopo extension: implemented — manifest, popup UI, CSV parsing, and marker API calls

@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "CalTopo Marker Tool",
+  "version": "1.0",
+  "description": "Batch-add markers to CalTopo maps from CSV input",
+  "permissions": ["activeTab"],
+  "host_permissions": ["https://caltopo.com/*"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
