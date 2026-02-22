@@ -25,6 +25,7 @@ caltopo-extension/            ← Chrome extension for batch-adding CalTopo mark
   manifest.json               ← Manifest V3 config
   popup.html                  ← Extension popup UI
   popup.js                    ← Map ID detection, CSV parsing, API calls
+input/                        ← private data sources (CSV, text files). Gitignored.
 extract.py                    ← PDF/EPUB text extractor. Done. Don't modify unless asked.
 output/                       ← raw extractor output. Don't edit — regenerate via extract.py.
 ```
