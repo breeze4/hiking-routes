@@ -8,22 +8,33 @@ The site supports multiple trips via lightweight navigation chrome. Each trip pa
 
 The first trip (Muddy Creek) was bootstrapped from Steve Allen's "Canyoneering 2: Technical Loop Hikes in Southern Utah" via the `extract.py` tool. Future trips may come from other sources or be written from scratch.
 
-## Working Files
+## Project Structure
 
-- **`html/`** — All trip pages live here. Each trip is its own HTML file.
-  - **`html/index.html`** — The Muddy Creek trip (first and currently only trip page).
-  - **`html/images/`** — Extracted images (book maps, photos) referenced as base64 data URIs.
-  - **`html/text/`** — Per-page extracted text from the EPUB (reference only).
-- **`extract.py`** — PDF/EPUB text extractor. Done. Don't modify unless asked.
-- **`output/`** — Raw extractor output. Don't edit — regenerate via extract.py if needed.
+```
+html/
+  index.html                  ← trip list page (links to each trip)
+  trips.js                    ← shared nav bar (injected into each trip page)
+  muddy-creek/
+    index.html                ← Muddy Creek trip page
+    images/                   ← extracted images (book maps, photos)
+    text/                     ← per-page extracted text from EPUB (reference)
+    text.txt                  ← combined extracted text (reference)
+  stevens-canyon/
+    index.html                ← Stevens Canyon & Baker Route (stub)
+caltopo-extension/            ← Chrome extension for CalTopo (in progress, being specced)
+extract.py                    ← PDF/EPUB text extractor. Done. Don't modify unless asked.
+output/                       ← raw extractor output. Don't edit — regenerate via extract.py.
+```
 
 ## Architecture
 
-Static HTML files. No build step, no framework, no JS dependencies beyond what's inline in the HTML. Images are embedded as base64 data URIs. CalTopo maps are embedded via iframes.
+Static HTML files. No build step, no framework, no JS dependencies beyond what's inline in the HTML. CalTopo maps are embedded via iframes.
 
 ### Multi-Trip Navigation
 
-Lightweight nav chrome shared across trip pages. Keep it minimal — a simple way to switch between trips, not a full app shell.
+`html/trips.js` injects a fixed nav bar into each trip page. Trip pages reference it via `<script src="../trips.js"></script>`. The script detects the current trip by directory name in the URL path.
+
+`html/index.html` is a simple list of links to each trip — no nav bar, no JS.
 
 ### CalTopo Map Embeds
 
@@ -33,6 +44,10 @@ CalTopo maps are embedded as iframes using the pattern:
 ```
 
 Maps can be displayed side-by-side with printed book maps using a `.map-pair` flex container that breaks out wider than the text column.
+
+### CalTopo Extension
+
+A Chrome extension (in `caltopo-extension/`) for adding waypoints and markers to CalTopo maps more efficiently. Currently being specced out — no implementation yet.
 
 ### Trip Page Structure
 
@@ -45,4 +60,7 @@ For the Muddy Creek trip, sections are:
 
 - Muddy Creek trip: EPUB text extracted and formatted as semantic HTML
 - First CalTopo map (`https://caltopo.com/m/HET5V0R`) embedded alongside the printed overview map
-- Multi-trip nav not yet implemented
+- Multi-trip nav implemented via `trips.js`
+- Trip pages reorganized into per-trip directories
+- Stevens Canyon stub page created
+- CalTopo extension: being specced, directory exists but no code yet
