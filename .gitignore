@@ -3,3 +3,4 @@ input/
 .venv/
 __pycache__/
 *.pyc
+.source-pull-logs/
