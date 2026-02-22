@@ -34,6 +34,8 @@ output/                       ← raw extractor output. Don't edit — regenerat
 
 Static HTML files. No build step, no framework, no JS dependencies beyond what's inline in the HTML. CalTopo maps are embedded via iframes.
 
+**Formatting:** HTML files are formatted with `js-beautify` (2-space indent), which matches VS Code's built-in HTML formatter. VS Code has `editor.formatOnSave: true` enabled.
+
 ### Multi-Trip Navigation
 
 `html/trips.js` injects a fixed nav bar into each trip page. Trip pages reference it via `<script src="../trips.js"></script>`. The script detects the current trip by directory name in the URL path.
