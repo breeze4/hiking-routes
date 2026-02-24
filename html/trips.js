@@ -13,7 +13,9 @@
     ' BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }' +
     '#trip-nav a { color: #aaa; text-decoration: none; white-space: nowrap; }' +
     '#trip-nav a:hover { color: #fff; }' +
-    '#trip-nav a.current { color: #fff; font-weight: 600; }';
+    '#trip-nav a.current { color: #fff; font-weight: 600; }' +
+    'nav.outline { top: 36px !important; }' +
+    '@media (min-width: 1250px) { nav.outline { height: calc(100vh - 36px) !important; } }';
   document.head.appendChild(style);
 
   var pathParts = location.pathname.split('/').filter(Boolean);

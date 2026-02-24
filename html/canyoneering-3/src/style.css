@@ -1,0 +1,306 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+  font: 18px/1.7 Georgia, 'Times New Roman', serif;
+  color: #222;
+  background: #fafaf8;
+}
+
+h1 {
+  font-size: 1.8rem;
+  margin-bottom: 2rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin: 2.5rem 0 1rem;
+  padding-top: 1rem;
+  border-top: 2px solid #ddd;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin: 1.5rem 0 0.5rem;
+}
+
+p {
+  margin-bottom: 0.8em;
+  text-align: justify;
+  hyphens: auto;
+}
+
+p.small {
+  font-size: 0.85em;
+  color: #444;
+}
+
+blockquote {
+  margin: 1rem 2rem;
+  font-style: italic;
+  color: #555;
+}
+
+figure {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
+figure img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #ddd;
+}
+
+figcaption {
+  font-size: 0.85em;
+  color: #666;
+  margin-top: 0.5rem;
+}
+
+/* ── Nav sidebar ── */
+nav.outline {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 250px;
+  height: 100vh;
+  overflow-y: auto;
+  padding: 1.25rem 0.75rem;
+  background: #fafaf8;
+  border-right: 1px solid #e0ddd8;
+  font: 12.5px/1.5 -apple-system, system-ui, "Segoe UI", sans-serif;
+  color: #555;
+  z-index: 100;
+}
+
+nav.outline .outline-toggle {
+  display: none;
+}
+
+nav.outline .outline-links {
+  display: block !important;
+}
+
+/* Shared disclosure triangle */
+nav.outline summary {
+  cursor: pointer;
+  list-style: none;
+}
+nav.outline summary::-webkit-details-marker { display: none; }
+nav.outline summary::marker { display: none; content: ""; }
+nav.outline summary::before {
+  content: "";
+  display: inline-block;
+  width: 0; height: 0;
+  border-top: 3.5px solid transparent;
+  border-bottom: 3.5px solid transparent;
+  border-left: 4.5px solid #ccc;
+  margin-right: 5px;
+  vertical-align: middle;
+  transition: transform 0.15s;
+}
+nav.outline details[open] > summary::before {
+  transform: rotate(90deg);
+}
+nav.outline summary a {
+  color: inherit;
+  text-decoration: none;
+}
+nav.outline summary:hover { color: #0066cc; }
+
+/* Shared link style */
+nav.outline a {
+  color: #666;
+  text-decoration: none;
+}
+nav.outline a:hover {
+  color: #0066cc;
+}
+
+/* Active page highlight */
+nav.outline a.active {
+  color: #0066cc;
+  font-weight: 600;
+}
+nav.outline summary:has(a.active) {
+  color: #0066cc;
+}
+
+/* ── Region labels (I-IV) ── */
+nav.outline .region-label {
+  margin-top: 0.75rem;
+  margin-bottom: 0.2rem;
+  padding: 0.25rem 0;
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+  color: #777;
+  border-top: 1px solid #e5e5e0;
+}
+
+nav.outline .region-label a { color: inherit; }
+nav.outline .region-label a.active { color: #0066cc; }
+
+/* ── Back matter links ── */
+nav.outline a.back-matter {
+  display: block;
+  padding: 0.15rem 0;
+  margin-top: 0.4rem;
+  color: #777;
+  border-top: 1px solid #eee;
+}
+
+/* ── Front-matter chapters ── */
+nav.outline details.front-matter {
+  margin-bottom: 1px;
+}
+
+nav.outline details.front-matter summary {
+  padding: 0.2rem 0;
+  color: #555;
+}
+
+nav.outline details.front-matter > a {
+  display: block;
+  padding: 1px 0 1px 1rem;
+  color: #666;
+  font-size: 11.5px;
+}
+
+/* ── Hike groups ── */
+nav.outline details.hike-group {
+  margin-bottom: 1px;
+}
+
+nav.outline details.hike-group summary {
+  padding: 0.2rem 0;
+  font-weight: 600;
+  color: #444;
+}
+
+/* Trail segments inside hikes */
+nav.outline details.hike-group > a {
+  display: block;
+  padding: 1px 0 1px 1.3rem;
+  color: #666;
+  font-size: 12px;
+}
+
+/* Road sections */
+nav.outline a.road-section {
+  display: block;
+  padding: 0.1rem 0;
+  color: #888;
+  font-size: 11.5px;
+}
+
+/* Narrative sections at region level */
+nav.outline a.narrative {
+  display: block;
+  padding: 0.1rem 0;
+  color: #666;
+  font-style: italic;
+}
+
+/* ── Table of contents (index page) ── */
+.toc-front a {
+  color: #555;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+.toc-front a:hover { color: #0066cc; }
+
+ol.toc-hikes {
+  margin: 0.5rem 0 1rem 1.5rem;
+  padding: 0;
+  line-height: 1.9;
+  list-style: none;
+}
+ol.toc-hikes a {
+  color: #222;
+  text-decoration: none;
+}
+ol.toc-hikes a:hover { color: #0066cc; }
+
+.toc-back {
+  margin-top: 0.3rem;
+  font-size: 0.9em;
+}
+ol.toc-hikes + .toc-back {
+  margin-top: 1.5rem;
+  padding-top: 1rem;
+  border-top: 1px solid #ddd;
+}
+.toc-back a {
+  color: #555;
+  text-decoration: none;
+}
+.toc-back a:hover { color: #0066cc; }
+
+@media (min-width: 1250px) {
+  body {
+    margin-left: calc(250px + (100% - 250px - 680px) / 2);
+  }
+}
+
+@media (max-width: 1249px) {
+  nav.outline {
+    position: fixed;
+    left: 0; top: 0; right: 0;
+    width: 100%;
+    height: auto;
+    max-height: 60vh;
+    border-right: none;
+    border-bottom: 1px solid #ddd;
+    padding: 0;
+    background: #fafaf8;
+  }
+
+  nav.outline .outline-toggle {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.6rem 1rem;
+    cursor: pointer;
+    background: #fafaf8;
+    border-bottom: 1px solid #eee;
+    font-weight: 600;
+    font-size: 14px;
+    color: #333;
+  }
+
+  nav.outline .outline-chevron {
+    font-size: 0.65em;
+    color: #999;
+    transition: transform 0.2s;
+  }
+
+  nav.outline.open .outline-chevron {
+    transform: rotate(180deg);
+  }
+
+  nav.outline .outline-links {
+    display: none !important;
+    padding: 0.5rem 1rem 0.75rem;
+    overflow-y: auto;
+    max-height: calc(60vh - 3rem);
+  }
+
+  nav.outline.open .outline-links {
+    display: block !important;
+  }
+
+  body {
+    padding-top: 3.5rem;
+  }
+}
