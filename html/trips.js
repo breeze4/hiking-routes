@@ -1,7 +1,8 @@
 (function() {
   var trips = [
     {name: "Muddy Creek", dir: "muddy-creek"},
-    {name: "Stevens Canyon & Baker Route", dir: "stevens-canyon"}
+    {name: "Stevens Canyon & Baker Route", dir: "stevens-canyon"},
+    {name: "Canyoneering 3", dir: "canyoneering-3"}
   ];
 
   var style = document.createElement('style');
