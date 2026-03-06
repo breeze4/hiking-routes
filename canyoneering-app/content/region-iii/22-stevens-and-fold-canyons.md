@@ -6,7 +6,7 @@ region: "III"
 number: 22
 ---
 
-### Stevens and Fold CanyonsHike #22 {#stevens-and-fold-canyons}
+### Stevens and Fold Canyons Hike #22 {#stevens-and-fold-canyons}
 
 ### Season: {#season-21}
 
@@ -46,7 +46,7 @@ This hike is in Glen Canyon National Recreation Area.
 
 This hike is a shorter and slightly easier variation of the Stevens Canyon and the Waterpocket Fold Hike #21. Instead of exiting the right side of Stevens Canyon and traversing the Waterpocket Fold, this route exits Stevens Canyon on the left. It then enters Fold Canyon, which is followed to the Escalante River. A circuitous route out of Escalante Canyon below Fools Canyon leads to Coyote Gulch and back to the trailhead.
 
-Use the description in Hike #21 to get from the Fortymile Ridge trailhead to the Baker Trail exit in Stevens Canyon. It will take 10.0 to 15.0 hoursor two daysto reach this point. The route description picks up from the start of the Baker Trail.
+Use the description in Hike #21 to get from the Fortymile Ridge trailhead to the Baker Trail exit in Stevens Canyon. It will take 10.0 to 15.0 hours—or two days—to reach this point. The route description picks up from the start of the Baker Trail.
 
 ### To Fold Canyon {#to-fold-canyon}
 
@@ -54,7 +54,7 @@ Use the description in Hike #21 to get from the Fortymile Ridge trailhead to the
 
 In another thirty minutes a boulder-filled side canyon comes in from the right (NE) (shown to the west of elevation 5546T on the Stevens Canyon North map) . Stay in the main canyon to the left (NW). In another ten minutes a side canyon comes in on the right (N) (shown to the east of elevation 5201T). There is a mining claim written on a boulder at its mouth. Follow the main canyon to the left (W). The vegetation and springs soon end.
 
-In another fifty-five minutes two canyons enter from the rightthe first from the northeast, the second from the north. (They are located to the south-southeast of elevation 5277T.) The Chinle Formation is visible at this junction. A mining claim painted on a boulder near the mouth of the canyon states, ''Triple Kay Exp. June No. 1"
+In another fifty-five minutes two canyons enter from the right—the first from the northeast, the second from the north. (They are located to the south-southeast of elevation 5277T.) The Chinle Formation is visible at this junction. A mining claim painted on a boulder near the mouth of the canyon states, ''Triple Kay Exp. June No. 1"
 
 <figure>
 <img src="images/page_215_img_1.jpg" alt="">
@@ -78,7 +78,7 @@ From the pass, hike along Kayenta ledges on the left (LDC) side of the canyon to
 
 <p class="small">cross three passes. Though there is some steep slab climbing, most of the route is along pleasant and spectacular Wingate and Kayenta benches. This route is highly recommended.</p>
 
-<p class="small">Instead of crossing Fold Canyon, continue down its right (N) rim for 200 yards to its confluence with the Middle Fork (shown to the north of elevation 5648T). Hike upcanyon along the Wingate rim for a short distance until you are forced up onto the Kayenta. Drop back to the Wingate when possible. A steep slickrock slab (Class 4) leads to the floor of the canyon and its many large potholesthe biggest in the area.</p>
+<p class="small">Instead of crossing Fold Canyon, continue down its right (N) rim for 200 yards to its confluence with the Middle Fork (shown to the north of elevation 5648T). Hike upcanyon along the Wingate rim for a short distance until you are forced up onto the Kayenta. Drop back to the Wingate when possible. A steep slickrock slab (Class 4) leads to the floor of the canyon and its many large potholes—the biggest in the area.</p>
 
 <p class="small">Hike upcanyon. At one point, a worn row of Moqui steps leads up a short wall and around a deep pool on its left (LUC) side. At the confluence with a small side canyon that comes in on the left (NW) (shown one-eighth mile south-southeast of elevation 5913T), climb a steep slab to the north to the top of the Wingate. Follow the left rim of the side canyon for a couple of minutes until a pass in the Navajo is visible to the west-northwest. Hike through the pass (shown one-quarter mile south-southwest of elevation 5913T). (1.0-1.5 hours.)</p>
 
