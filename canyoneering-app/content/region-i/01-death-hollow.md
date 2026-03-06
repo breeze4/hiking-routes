@@ -1,0 +1,181 @@
+---
+title: "1. Death Hollow"
+slug: death-hollow
+type: hike
+region: "I"
+number: 1
+---
+
+### Season: {#season}
+
+If you plan to do this as a complete loop hike, the recommended seasons are late spring or early summerafter spring runoffor early fall. Summer is too hot to do the complete loop.
+
+If you do a one-way trip by exiting Death Hollow at the Boulder Mail Trail, or by hiking down the Escalante River to the Highway 12 bridge, or up the river to the upper Escalante trailhead near the town of Escalante, summer is fine.
+
+### Time: {#time}
+
+35.0 to 52.0 hours. Five to eight days for the complete loop.
+
+21.0 to 32.0 hours. Three to five days if you exit Death Hollow at the Boulder Mail Trail and go east.
+
+22.5 to 34.0 hours. Three to five days if you exit Death Hollow at the Boulder Mail Trail and go west.
+
+26.5 to 39.0 hours. Four to six days if you hike to the Escalante River and then either go east to the Highway 12 bridge or west to the town of Escalante.
+
+Great latitude has been given in the times to allow for slow or large groups.
+
+### Elevation range: {#elevation-range}
+
+5360' to 9040'.
+
+### Water: {#water}
+
+The first water in Death Hollow appears at the end of the first day, about eleven miles from the trailhead. The rest of Death Hollow and the Escalante River have perennial flows of water. Water is a problem on the return route. The text that follows notes water sources.
+
+### Maps: {#maps}
+
+Roger Peak, Escalante, and Calf Creek.
+
+### Skill level: {#skill-level}
+
+Difficult route finding. Class 5.4 climbing with little exposure. The leader must be experienced with belay techniques and be capable of leading the climbing sections without protection. Lots of wading and swimming. This route is suitable only for experienced canyoneers who are in excellent physical condition. Low-impact camping skills are essential. This route is not recommended for novice canyoneers, youngsters, or youth groups.
+
+### Special equipment: {#special-equipment}
+
+Wading boots, one inner tube for every two or three people, large garbage bags or river-type dry bags, and special dry bags for camera equipment and valuables. A forty-foot climbing rope is adequate.
+
+### Note: {#note}
+
+This route has been designed for hardcore canyoneers who are in excellent condition. The return route is long, arduous, and has little water. Most will not want to do Death Hollow as a loop hike. Options include exiting at the Boulder Mail Trail (Hike #3) or, once at the mouth of Death Hollow, going up the Escalante River to the town of Escalante or downriver to the Highway 12 bridge.
+
+Death Hollow contains extensive patches of poison ivy that cannot be avoided. Be prepared.
+
+### Land status: {#land-status}
+
+This route is in Box-Death Hollow Wilderness Area and Grand Staircase-Escalante National Monument.
+
+Death Hollow, one of the most spectacular canyons in southern Utah, should be on every hardcore canyoneer's tic list. The operative words here are death and hardcore; this canyon is difficult throughout and many epics have unfolded in its deepest recesses. Luckily, no deaths have occurred; but it is just a matter of time. Death Hollow is not a canyon for the newcomer who may not appreciate what it offers. It is a canyon one aspires to, a reward for building skills and gaining experience over many seasons.
+
+Death Hollow is a canyon of grand proportions. At its upper end huge white walls enclose a wide, forested valley. In the middle the walls taper into a relentless slot that proves challenging to traverse. The canyon ends with a serenity that fathoms the depths of beauty.
+
+The route starts on the Hells Backbone road at the very top of Death Hollow Canyon high on Boulder Mountain and descends the canyon to the Escalante River. The river is followed downcanyon for a short distance to the Bowington road (a trail), which winds its way up the ridge that divides Death Hollow and Sand Creek. After crossing Slickrock Saddle Bench and the Boulder Mail Trail (BMT), the route leaves the Bowington road and follows a cross-country route back to the trailhead.
+
+<figure>
+<img src="images/page_064_img_1.gif" alt="">
+<figcaption>Map Two</figcaption>
+</figure>
+
+### Into Death Hollow {#into-death-hollow}
+
+(Roger Peak map and Map Two.) From the signed parking area cross the road and find a vague path that goes southeast down a steep hillside to the bottom of an east-running draw. The path, which passes through thick stands of ponderosa pine, Douglas fir, aspen, and manzanita, leads to the floor of Death Hollow. Intensely white cliffs of Navajo Sandstone topped with a thin layer of Page Sandstone appear on the left. Once in Death Hollow proper a Dixie National Forest trail register appears. You have now entered Box-Death Hollow Wilderness Area. (1.0 hour.)
+
+<p class="small">Historical note: There are two conflicting stories about the naming of Death Hollow. Old-timers tell the first story, and it is the most believable. They say that an early rancher named Death Hollow after some of his livestock fell off a steep section of the BMT as they descended into the canyon. The second story claims that Death Hollow was named for Washington Phipps, who had been killed by John Bowington on the Escalante River below Death Hollow. This story is recounted in Hike #7.</p>
+
+### Down Death Hollow to the first water source {#down-death-hollow-to-the-first-water-source}
+
+Hike down the wide canyon for many miles, cutting benches as you see fit. The canyon starts to narrow and the main streambed passes the right (W) side of an abandoned meander (elevation 7156). An hour below the meander, enter the first narrows, a short stretch that cuts through low Navajo walls and contains medium potholes. The narrows widen a bit. Look for a long, prominent, vertical brown streak on the slickrock to the left (LDC). It marks a spring, the first source of reliable water in Death Hollow. If the spring is not flowing well, make your way to the top of the brown streak. Large potholes dot the watercourse and there is excellent slickrock camping. (6.0-9.0 hours.)
+
+### Into the narrows {#into-the-narrows}
+
+Fifteen minutes below the spring the real narrows begin. The first section contains several large potholes that require wading, stemming, or swimming. It is easy to pass this stretch on a bench to the right (LDC).
+
+The canyon opens a little, then constricts again. You can either stay in the canyon or follow the left rim for a long distance before being forced back into the canyon.
+
+The challenges mount. There are chockstones to negotiate and pools to swim or wade. It is important to belay the less experienced over the many small drops (up to Class 5.4, 12'). Packs can be lowered with a rope. The first major landmark, the Right Fork of Death Hollow, comes in on the left (NW). Its lower end contains large
+
+<figure>
+<img src="images/page_066_img_1.jpg" alt="">
+<figcaption>Bob Bordasch and Joe Breddan in Death Hollow.</figcaption>
+</figure>
+
+potholes and fine camping. You have now left Box-Death Hollow Wilderness Area and have entered Grand Staircase-Escalante National Monument. (3.0-5.5 hours.)
+
+<p class="small">Digression: The Right Fork is worth a visit. Pass the initial fall on the left (LUC). Large pools and delightful narrows lie above. (2.0-4.0 hours round-trip.)</p>
+
+Difficulties continue until you reach a series of beaver dams. (The dams start just as Death Hollow goes off the Roger Peak map onto the Escalante map.) The dams mark the end of the narrows and the beginning of the perennial flow of water in Death Hollow. (2.0-3.5 hours.)
+
+### The canyon opens {#the-canyon-opens}
+
+The character of the canyon changes dramatically and the way is lined with ponderosa pine, dogwood, birch, ferns, and flowers. Halloween walls, formed when bright orange iron seeps flow into the stream, provide sharp contrast to the green foliage and the white Navajo walls. A sulphur spring (shown on the map) trickles from a side canyon to the left (N). Its presence will be apparent to the nose. Thick stands of poison ivy prove irksome. Large groups will find few adequate campsites, though small parties can find nooks and crannies that will suffice.
+
+The next landmark is a narrow side canyon that comes in on the right (W). It has a large ponderosa pine laying against its left wall 100 yards up from the confluence and the canyon is blocked by a pour-off after another 100 yards. There is fine camping suitable for large groups above the pour-off, which can be passed via a steep hill on the right (LUC). (The side canyon is the only canyon dropping from the west between "Death" and "Hollow" on the map.) (3.0-5.0 hours.)
+
+<p class="small">Digression: The side canyon is Moonshadow Canyon (AN). Huge potholes, some up to twenty-five yards across, line its slickrock floor. Above the campsite pass a fall by ascending a steep gully that cuts behind two abandoned meanders on the left (SW). It is easy to spend a day, or moonlit night, exploring this splendid canyon.</p>
+
+### To the BMT {#to-the-bmt}
+
+The BMT is tricky to find, so pay close attention to the map and to landmarks if you plan to exit there. Two hours of pleasant wading down the creek, past several large caves on the left wall, lead to a thin sandy campsite on the right that is partially tucked under a small overhang. Just past it, again on the right and a foot or two above stream level, is a fast-flowing spring that squirts vertically from the ground. (2.5-3.0 hours.) (Map Three.)
+
+<p class="small">Historical note: Shortly after World War II, Mac LeFevre, a rancher living on Salt Gulch near Boulder, carried a milk can full of trout across the BMT and released them at the squirter spring, stocking an otherwise fishless stream.</p>
+
+<p class="small">Digression: The east section of the BMT, which leads to the Boul-</p>
+
+<figure>
+<img src="images/page_068_img_1.gif" alt="">
+<figcaption>Map Three</figcaption>
+</figure>
+
+<p class="small">der Mail Trail trailhead (described in the Hells Backbone Road Section), comes in on a tree-and brush-covered hillside to the left (NE) fifty yards below the squirter spring. If you can't find the BMT, look for an old telephone cable crossing the canyon above a large, wonderful, ponderosa-shaded campsite on a jut of land that forces the stream into a tight east-to-west bend. Backtrack for 100 yards. (The jut is located one-eighth mile east-northeast of elevation 6630.)</p>
+
+### To Mamie Creek {#to-mamie-creek}
+
+Hike down Death Hollow for twenty-five minutes to the first break in the Navajo wall on the right (W). The BMT, marked with cairns, exits the canyon here. Many good campsites are in the area.
+
+<p class="small">Digression: You can follow the west section of the BMT to the upper Escalante Canyon trailhead near the town of Escalante. (See the Highway 12 Road Section for directions to this trailhead, and see Hike #3 for details on hiking the BMT.)</p>
+
+As you continue down Death Hollow, the first tamarisks and Russian-olive trees appear. Both are imported species. Mamie Creek, unexceptional at its mouth, enters on the right (W). (2.0-3.0 hours.)
+
+<p class="small">Digression: A hike up lower Mamie Creek is rewarding. Minor thrashing leads to a pool and large alcove. (1.0 hour round-trip.)</p>
+
+### The final narrows {#the-final-narrows}
+
+Forty-five minutes below Mamie Creek you will reach the lower narrows, the last impediment in Death Hollow. Pass a long string of pools on a thin ledge at water level on the left. If the water level is high, or if you are not comfortable traversing the ledge with a pack, you may have a short swim. Many consider these pools to be the prettiest in Death Hollow. Plan on extra time to swim, cavort, relax, and photograph these gems. (1.0-2.5 hours.)
+
+### To the Escalante {#to-the-escalante}
+
+Hike down to the Escalante River. There are campsites near the confluence. (2.0-2.5 hours.)
+
+<p class="small">Digression: You can leave the standard route here and hike east up the Escalante River to the upper Escalante Canyon trailhead near the town of Escalante. (See the Highway 12 Road Section for directions to this trailhead.) It takes about four hours.</p>
+
+### Down the Escalante {#down-the-escalante}
+
+(Calf Creek map.) Finding the exit route out of Escalante
+
+<figure>
+<img src="images/page_070_img_1.gif" alt="">
+<figcaption>Map Four</figcaption>
+</figure>
+
+Canyon is difficult. Pay close attention to your map. (Map Four.) Forty minutes downcanyon the rivergoing south-southeastruns straight into a huge, vertical, distinctive gray wall and turns left (E). Ten minutes below the wall locate a large triangular-shaped overhang on river right that is about 100 feet above the river. A smaller overhang is to its left. You will leave the river here. The next reliable water source is about six hours away, at Sand Creek. Load up with water before leaving the river. (1.0 hour.)
+
+<p class="small">Digression: You can leave the standard route here and continue down the Escalante River to the Highway 12 bridge. (See the Highway 12 Road Section for directions to this trailhead.) It takes 2.0-3.0 hours.</p>
+
+### The exit route {#the-exit-route}
+
+Go north up and over a low ridge that is directly across the river from the triangular-shaped overhang. Enter a sand-floored drainage lined with ponderosa pines. (The drainage is shown to the southeast of elevation 6084. The mouth of the drainage is immediately east of a marked 5400' elevation line. You cannot enter the drainage directly from the river due to a pour-off.) This exit route is also used in Part 2 of Hike #4.
+
+At the upper end of the drainage is a long black streak that goes down the sloping white Navajo slickrock into a pond. Follow the drainage delineated by the black streak (N). Pass a couple of slickrock-falls (Class 3) on the right (LUC). The drainage flattens a bit and ends in a sandy area below a gentle slickrock hill. A twenty-foot pinnacle is plainly visible near the top of a hill to the west.
+
+Walk northeast for three minutes and intersect a small, northwest-running, ponderosa-lined canyon (shown to the east of elevation 6084). Many of the trees are dead. Follow the left (LUC) (SW) side of the canyon. In a couple of minutes the canyon divides. Follow the rim of the drainage to the left (NNW). This short canyon/gully ends at a sandy hill. Continue north-northwest across the sand for a couple of hundred yards and intersect the well-worn Bowington road (a trail) just before reaching slickrock. (0.5-1.0 hours.)
+
+### Along the Bowington road to the Boulder Mail Trail {#along-the-bowington-road-to-the-boulder-mail-trail}
+
+Go left (W) on the Bowington road. It is heavily used by horse packers and its course is easy to follow; there are deep ruts as it runs along sandy sections and it is adequately cairned crossing the slickrock. The trail first goes generally northwest across slickrock for a mile, then turns north and winds around domes and along short escarpments. It takes about 1.5 hours of steady uphill hiking to reach Slickrock Saddle Bench, which is in the Carmel Formation.
+
+The gradient eases as you continue north for an hour on Slick-
+
+rock Saddle Bench to the Slickrock Saddle. (Escalante map.) Most of this section is uphill through pinyon and juniper. The Slickrock Saddle itself is easy to recognize. You drop off the Carmel and are again surrounded by Navajo. Just before you reach the saddle, note where the pioneer trail builders cut a ramp down a small cliff. Sand Creek is visible to the east, Death Hollow to the west.
+
+From Slickrock Saddle the trail traverses northwest near the rim of Death Hollow on slickrock for about fifteen minutes. One hundred yards after the trail leaves the slickrock and drops onto the sand the Bowington road joins the BMT. You are now fifty yards east of the rim of Death Hollow. (3.5-4.5 hours.)
+
+Go right (NW) on the BMT toward Sand Creek. In ten minutes the trail divides. The BMT goes to the right (NNE); the Bowington road goes to the left (NNW). At this juncture a small Navajo tower (elevation 6617) is visible a short distance to the east. This junction is difficult to see.
+
+Follow the Bowington road. After fifteen minutes it takes you across a wide shallow slickrock drainage that has two arms. After the trail crosses another short pinyon-and-juniper area, it follows the right (E) side of a small drainage and descends to Sand Creek. (You are now at the ''S" in Sand.) Sand Creek has a perennial flow of water and there is excellent camping under ponderosa pines. (1.0 hour.)
+
+### To the Hells Backbone road {#to-the-hells-backbone-road}
+
+The final push to the Hells Backbone road is very long and has a lot of elevation gain. A jump start, if your schedule allows, is recommended. There will be no water until you reach the Hells Backbone road. Load up at Sand Creek.
+
+Exit Sand Creek to the left (LUC)(W) and make your way to the top of the ridge that divides Sand Creek and Death Hollow. There are many options. (Roger Peak map.)
+
+Your goal is to follow the ridge north. After crossing elevation 7933 the ridge narrows in three places. The Right Fork of Death Hollow is on your left (W); Sand Creek is on your right (E). After passing the third narrow area (just north of elevation 8073), it is easiest to stay below the right side of the ridge at the 8,300-foot level until you reach the Hells Backbone road (at mile 25.5). You can now cache your pack and walk the road back to the trailhead. (6.5-9.5 hours.)

@@ -1,0 +1,133 @@
+---
+title: "24. Fortymile Creek and Willow Gulch"
+slug: fortymile-creek-and-willow-gulch
+type: hike
+region: "III"
+number: 24
+---
+
+### Fortymile Creek and Willow GulchHike #24 {#fortymile-creek-and-willow-gulch}
+
+### Season: {#season-22}
+
+Spring, summer, or fall. Due to deep wading and a possible short swim, warm days are preferred.
+
+### Time: {#time-22}
+
+7.5 to 9.5 hours. One long day or two pleasant days.
+
+### Water: {#water-22}
+
+Water availability is not a problem on this hike. Both Fortymile Creek and Willow Gulch have perennial flows of water along their lower ends.
+
+### Elevation range: {#elevation-range-22}
+
+3700' to 4260'.
+
+### Maps: {#maps-16}
+
+Sooner Bench and Davis Gulch.
+
+### Skill level: {#skill-level-22}
+
+Moderately easy route finding. Most of the hiking is Class 2, but there are several short Class 4 obstacles to overcome. There is a lot of wading and the potential for a short swim. This is a moderately strenuous hike. If you do this as an overnight hike, familiarity with low-impact camping techniques is essential.
+
+### Special equipment: {#special-equipment-22}
+
+Wading shoes or boots. Dayhikers may be able to keep their gear dry, but overnight hikers need to bring an inner tube for floating packs. This route is moderately difficult.
+
+### Note: {#note-10}
+
+There is one stretch of poison ivy in Fortymile Creek that is hard to avoid.
+
+### Land status: {#land-status-22}
+
+This hike is in Glen Canyon National Recreation Area.
+
+Fortymile Creek and Willow Gulch are like Bragi's story: they are always enchanting and never seem to end. Their opulent vales are intimate yet open; they contain hanging gardens, a waterfall, relics of prehistoric occupation, a huge arch, pools to play in, and side draws to explore. Although this route is a tad long on miles, it is worth the effort. Most do this hike in a day; the wise take two.
+
+The route starts on the Hole-in-the-Rock road and goes down Sooner Wash, which quickly joins Fortymile Creek. It is followed to the mouth of Willow Gulch near Lake Powell. Willow Gulch and one of its slot-like tributaries lead back to the trailhead.
+
+### To Fortymile Creek {#to-fortymile-creek}
+
+(Sooner Bench map and Map Thirty-two.) From the Sooner Wash sign, hike east down Sooner Wash. Just as you enter the light colored Navajo Sandstone, there is a thirty-foot drop into a narrow gorge. Pass it by hiking along the left rim of the gorge to a slot that contains several large chockstones. Drop into the slot, clamber un-
+
+<figure>
+<img src="images/page_224_img_1.gif" alt="">
+<figcaption>Map Thirty-two</figcaption>
+</figure>
+
+<figure>
+<img src="images/page_225_img_1.jpg" alt="">
+<figcaption>Harvey Halpern in Fortymile Creek Canyon.</figcaption>
+</figure>
+
+der the chockstones, and descend into the canyon. There are several minor obstacles to deal with (Class 4, 8'). The first side canyon coming in on the left (NW) is Fortymile Creek. (0.5 hours.)
+
+### Down Fortymile Creek {#down-fortymile-creek}
+
+The upper part of Fortymile Creek is wide and dry. By the time a canyon enters from the left (NW), water has started to flow from the
+
+creekbed and cottonwood trees line the canyon. Pass a waterfall at an abrupt left turn in the canyon on a steep trail to the right. It ducks under a grove of boxelder trees and through a healthy patch of poison ivy. From the base of the fall, look up and note a natural bridge. The canyon narrows and the walls are lined with small hanging gardens that contain maidenhair ferns, monkeyflowers, and columbines. (1.0-1.5 hours.)
+
+### The crux narrows {#the-crux-narrows}
+
+The wading starts shortly in a stretch of serpentine narrows. Depending on present conditions, there may be a couple of stretches of deep wading or even a stroke or two of swimming. Rock climbers can chimney over the deepest pools. Willow Gulch enters the canyon on the right (S) at a pronounced ''Vee." (Davis Gulch map.) (1.5-2.5 hours.)
+
+<p class="small">Digression: The combined drainages of Fortymile Creek and Willow Gulch open downcanyon as you near Lake Powell. Adequate campsites and the lure of a swim make this a pleasant place to nest for a night.</p>
+
+### Up Willow Gulch {#up-willow-gulch}
+
+Willow Gulch also contains a short stretch of narrows in its lower reaches that may require deep wading. A large chockstone blocked this gorge until 1955 when a local rancher "removed" the obstacle with twenty sticks of dynamite. The canyon soon opens and Broken Bow Arch appears. There is good camping in the area. (1.0 hour.)
+
+<p class="small">Historical note: Broken Bow Arch was named by Edson Alvey after he found a broken bow under the arch during a trip to the canyon in 1930. Alvey, born and raised in Escalante, taught school there for many years.</p>
+
+### To the trailhead {#to-the-trailhead-9}
+
+A half hour above the arch the canyon divides in an area of cottonwoods and cattails. (Sooner Bench map.) The springs stop flowing in this vicinity. The sand-and rock-floored main canyon goes to the left (S). Go right (W) into a canyon partially blocked with vegetation. (0.5 hours.)
+
+In ten minutes the canyon divides. A row of Moqui steps is visible from the confluence on a wall to the west-northwest. Go right (NW). The canyon (shown to the north of elevation 4202) immediately narrows, opens a tad, then really narrows. Tackle the slot, which is short and great fun, or pass it on the left (LUC).
+
+<figure>
+<img src="images/page_227_img_1.jpg" alt="">
+<figcaption>Bement Arch in Willow Gulch.</figcaption>
+</figure>
+
+<p class="small">Digression: For those who left a car at the Willow Gulch trailhead, watch for a trail that climbs a sandy hillside to the left and goes by a formation that looks like a graduation cap, or mortarboard.</p>
+
+Continue up the ever-shallower canyon to the Hole-in-the-Rock road. Mosey a mile along the road back to the trailhead. (3.0-3.5 hours.)
+
+### Everett Ruess {#everett-ruess}
+
+> *Once more I am drunk with the lust of life and adventure and unbearable beauty*.* I have the devil's own conception of a perfect time; adventure seems to beset me on all quarters without my even searching for it* . . . <br><br>Everett Ruess, 1934
+In early November 1934 a young man riding a burro entered the small farm and ranch community of Escalante. After spending several weeks camping close to town on the Escalante River, socializing with locals, and exploring nearby canyons, the man headed east along the Hole-in-the-Rock road into the canyons of the lower desert. It was the last anyone would see of him. The mystery surrounding the disappearance of Everett Ruess is one of the enduring stories associated with the canyons of the Escalante.
+
+Everett Ruess was born in California in 1914, the son of an artist and a minister. It was through them that he developed an interest in and a skill at writing, sketching, and wood-block carving. During a summer school break, the teenager set out on his first solo foray away from home, a three-month-long hitchhiking, backpacking, and camping loop. Starting in Los Angeles, Everett followed the California coast to Monterey, then headed east to Yosemite and the Sierra Nevada. The final leg of the journey led south to Mono Lake and back home.
+
+Everett loved the freedom he had while traveling and delighted in the country he saw. The lure of wild places was intense and the joy he found there is reflected in his writings and artwork. After graduating from high school he again headed out, this time toward the canyons and mesas of the Four Corners region.
+
+For eleven months Everett traveled, usually afoot, selling his art prints and picking up odd jobs as necessary. With a burro purchased in the Indian community of Kayenta, Everett made his way to the Grand Canyon, Monument Valley, southern Utah, and Zion National Park. He stopped to paint the famous ruins at Betatakin, Keet Seel, and Canyon de Chelly and stayed several days with John Wetherill, the man who discovered Mesa Verde.
+
+Returning home, Everett enrolled at UCLA, but lasted only one semester before finding he needed to be on the road again. A friend received a letter from Everett expressing his dissatisfaction with college life: "How little you know me to think that I could still be in the University! How could a lofty, unconquerable soul like mine remain imprisoned in that academic backwater, wherein all but the most docile wallow in a hopeless slough?"
+
+Trips to Yosemite and the Sierra, the redwoods of northern California, and the Pacific coast followed in quick succession. While in San Francisco, Everett hobnobbed with artist Maynard Dixon and photographers Dorothea Lange and Ansel Adams.
+
+In April 1934 Everett's older brother Waldo dropped him off in Kayenta. For several months Everett wandered Arizona, spending much time with the Navajo Indians. July found him near Navajo Mountain, where he packed into Rainbow Bridge and then back to Arizona to participate in an archaeological dig.
+
+That fall Everett visited Bryce Canyon, where he spent a couple of days before hiking over the Escalante Mountains to Escalante. He had heard of the beauty of the area from locals. Everett wrote a letter to Waldo from Escalante, telling him: "I stopped a few days in a little Mormon town [Escalante] and indulged myself in family life, church-going, and dances."
+
+Apparently planning to spend the winter in the Escalante, Everett continued: "As to when I shall visit civilization, it will not be soon, I think. I have not tired of the wilderness; rather I enjoy its beauty and the vagrant life I lead, more keenly all the time. I prefer the saddle to the streetcar and star-sprinkled sky to a roof, the obscure and difficult trail, leading into the unknown, to any paved highway, and the deep peace of the wild to the discontent bred by cities." No more letters were sent by Everett.
+
+On November 11, 1934, the twenty-year-old Everett left Escalante for the canyons of the lower desert. After not hearing from Everett for three months, his parents alerted the residents of Escalante. A search was launched in March 1935. Several canyons were checked before Everett's burros were located near the foot of the cattle trail leading out of Davis Gulch. Since his camp gear, food, and painting supplies were not with the burros, the searchers speculated that Everett left them and struck out on foot to explore the surrounding country. Bootprints matching Everett's were found throughout Davis Gulch, at the top of the Hole-in-the-Rock, and near the foot of the Kaiparowits Plateau. The search continued for several months before it was called off
+
+Three theories concerning Everett Ruess's disappearance have surfaced over the years. First, Everett may have fallen off a cliff, certainly a good possibility in the rugged Escalante country. Second, some residents of Escalante speculated that Everett crossed the Colorado River and disappeared in Navajo country. Everett had spent considerable time with the Navajos and felt a bond with them.
+
+The theory that in retrospect seems the most plausible is that Everett was killed by cattle rustlers and his body and camp kit buried to hide the evidence. Rustlers were known to have been in the area and ranchers had had problems with them in the past.
+
+Although the main search ended, various individuals kept looking for Everett for many years. Tantalizing bits of evidence surfaced from time to time, but none of the evidence was trustworthy. A human femur bone was discovered near Twilight Canyon by a boating party led by river runner Norm Nevills. He speculated that Everett's body may have washed down from the Kaiparowits Plateau.
+
+Famed river runner Harry Aleson kept in touch with Stella and Christopher Ruess, Everett's parents. In 1950, in a cave near the mouth of Clear Creek Canyon, Aleson found an old Mackinaw jacket with potsherds in the pockets that he believed could have been Everett's.
+
+In 1957, archaeologists found camping equipment in Reflection Canyon, which is a couple of miles south of the Escalante River; but the gear could not be positively identified as Everett's.
+
+Reports from people claiming to have seen Everett came from Moab and Mexico; but all sightings led nowhere. It is unlikely that the final disposition of Everett Ruess will ever be determined. Shortly before his disappearance, Everett wrote a friend that, "When I go I leave no trace." These words, written at an encampment near Navajo Mountain, a rounded summit within sight of the rim of Davis Gulch, proved prophetic and puzzling. Perhaps Everett would have enjoyed the mystery surrounding his death or disappearance. More than his writing or artwork, Everett's departure has ensured his status in history, legend, and myth.

@@ -1,0 +1,69 @@
+---
+title: "Man in the Escalante—The Prehistoric Period"
+slug: man-in-the-escalantethe-prehistoric-period
+type: front-matter
+---
+
+> *No black is blacker than the window of an Anasazi Indian cliff dwelling*.* Stone the color of salmon flesh frames these small rectangles of thick, palpable emptiness, frames a darkness with the density of night on water, the river beneath a moonless sky*.<br><br>Ellen Meloy, 1994
+Little is known of the first arrival of prehistoric humans in the Escalante River region. Inconclusive evidencefragments of Folsom projectile points and petroglyphs purportedly depicting woolly mammothsplace Paleo-Indians in the area at about 10,000 B.C. These Paleo-Indians were big-game hunters who roamed large areas while following seasonal migrations. They utilized stone tools and sharp sticks and lived in primitive shelters or caves. While the evidence is scanty in the Escalante area, it is known that Paleo-Indians occupied nearby sections of southern Utah and that woolly mammoths did wander the canyons of the lower Escalante.
+
+Indians of the Desert Archaic Culture (5500 B.C. to A.D. 500) lived in Glen Canyon and its tributaries, specifically those to the north and east of the Escalante canyons. They evolved from the Paleo-Indians with their big-game hunting tradition to a people of cultural diversity. A hunter-gatherer tradition was born. Instead of meat being the main food staple, the gathering of nuts, roots, and berries predominated. Baskets, crudely woven at first, became more sophisticated, and pottery was soon introduced. Woven sandals and blankets and sewn animal-hide clothing and footwear were used. Atlatls, or spear throwers, gave way to the bow and arrow toward the end of the Desert Archaic Period.
+
+The first Indians to definitely inhabit the Escalante River drainage date to the late Basketmaker II Period (approximately A.D. 400). The late date of Indian occupation compared to other areas of the Southwest was a function of the Escalante's remote location and a lack of need for its resources until burgeoning populations to the north and east forced Indian groups to seek new lands to settle. Certainly the canyons and upland areas of the Escalante were inviting. Large areas of tillable bottomland were abundant next to perennial streams. A plentiful supply of caves must have seemed a godsend.
+
+Most important was the ecological diversity of the area. The dry, warm lowland canyons and the wet, cool highlands of the Kaiparowits Plateau allowed the Indians to exploit a wide variety of flora and fauna. Two distinct cultures were poised at about the same time to enter the new territorythe Fremont and the Anasazi.
+
+<figure>
+<img src="images/page_026_img_1.jpg" alt="">
+<figcaption>Petroglyph panel on the Escalante River.</figcaption>
+</figure>
+
+The origin of the Fremont Culture is cloudy. Three hypotheses have been put forward by anthropologists. First, they were descendants of the Desert Archaic Culture people, hunter-gatherers from the Great Basin and the Colorado Plateau. Second, the Fremont were a breakaway Anasazi or Mogollon group from the Four Corners area. Third, the Fremont were bison hunters from the Great Plains who migrated to the area and adapted to the desert environment by borrowing techniques from the Anasazi.
+
+The Fremont Culture developed differently from their Anasazi neighbors. They had communities of up to several hundred people, but they did not build the walled cities typical of the Anasazi. Instead, they built clusters of pithouses and utilized caves, which were improved with crude masonry walls.
+
+Like the Anasazi, the Fremont cultivated corn, beans, and squash and built irrigation systems that stretched for miles. They made feather and hide blankets, finely tailored leather clothes, leather moccasins, and jewelry. Simple unpainted pots and finely woven baskets were used. Many small clay figurines have been found. Perhaps the best-known Fremont accomplishment was their rock artextensive, varied, and often surrealistic in execution.
+
+The earliest Fremont sites in the Escalante area are in Calf Creek Canyon. Pictograph panels found there date to the late Basketmaker II Period (approximately A.D. 500). The largest Fremont settlement was centered in Escalante Valley between the river and the Kaiparowits Plateau. A major site located just north of the town of Escalante consisted of a substantial multiroom dwelling that apparently was used year-round. Smaller sites were scattered throughout the valley.
+
+Another Fremont stronghold was in Harris Wash, which was occupied from late Pueblo I to Pueblo III periods (A.D. 900 to 1200), with the highest use during the latter part of that period. During excavations in the late 1950s and early 1960s, archaeologists found forty-eight major sites in Harris Wash. Only two were well defined habitations. The rest consisted of campsites under overhangs, lithic scatters, and rock art panels. A large number of storage cists or granaries suggests that Harris Wash was heavily populated. Analysis of pottery found in the canyon indicates that there was light useperhaps during hunting or trading trips through the canyon by Anasazi Indians.
+
+It is known that the Fremont rarely went into Escalante Canyon proper except in the area near the present town of Escalante, but they did regularly traverse the base of the Kaiparowits Plateau to the Colorado River and frequented many of the side canyons.
+
+The Fremont abandoned the Escalante area by A.D. 1250. Their collapse has been attributed to a long period of drought. The Fremont, though, were a tough people who had shown themselves capable of adapting to almost any condition. A more likely scenario is that Numic-speaking groups from the southwestern part of the Great Basin either forced the Fremont out or absorbed them into their own cultures. These Numic-speaking Indians-the Ute, Piute, and Shoshoniare discussed later in this chapter.
+
+Anasazi Indians were descendants of a Basketmaker culture that developed along the banks of the Colorado River and populated the Four Corners Region. The Anasazi were quick to assimilate innovations that originated in Mexico and Arizona. They developed a complex agricultural society: planting corn, beans, and squash, building irrigation systems, and domesticating turkeys and dogs. The arts flourished.
+
+The hallmark of the Anasazi was their architecture. Extensive multistoried complexes of rooms built from shaped sandstone slabs held together with clay mortar and often plastered with mud are common, especially in areas east of the Colorado River. In the Escalante drainage the dwellings are smaller and less extensive, but many still exhibit the same fine craftsmanship.
+
+The first Anasazi arrived in the Escalante area during the late Basketmaker II Period (approximately A.D. 500). Crossing the Colorado River from their homeland in the San Juan River area to the southeast and from northeast Arizona, the initial forays of these "Kayenta" Anasazis did not result in permanent habitations. The first area scouted was the Waterpocket Fold between the gap at Deer Point and the Escalante River. Archaeologists have found the oldest Anasazi sites there.
+
+It was not until the late Pueblo I Period (A.D. 900) that substantial numbers of Kayenta Anasazi entered the Escalante region. Perhaps pressured by overpopulation, internal strife, or drought conditions, they left their traditional homelands to the east, crossed the Colorado River, and started exploring and exploiting the new environment. Over a period of many years they traveled up the main canyon of the Escalante and entered its tributary canyons on both sides of the river.
+
+By the early Pueblo II Period (A.D. 1075) the Kayenta Anasazi had worked their way north to Boulder Valley, where they built the largest Kayenta village on the west side of the Colorado River. The village is now called the Coombs site and is located in the town of Boulder at Anasazi State Park.
+
+Blessed with permanent water, an abundance of lumber for firewood and construction, arable land, and easy access to hunting on both the benches and in the canyons, Coombs village developed into a settlement that included more than eighty structures ranging from jacals and pithouses to numerous storage cists. The maximum population is thought to have been over 200 people. Visits by Fremont Indians, Anasazi from the Virgin River area to the southwest, and Anasazi from Mesa Verde and Chaco Canyon to the southeast have been documented.
+
+Coombs village was abandoned after a fire devastated it about A.D. 1275. It is unclear whether the fire was the result of an accident, deliberate destruction by the Kayenta Anasazi before they vacated the village, or if it was started by hostile invaders. It is surmised that the Kayenta returned to their homelands near the San Juan River after vacating Coombs village. There is no evidence that any Kayenta Anasazi stayed in the Escalante area after abandonment of the village.
+
+The highest Indian population in the Escalante area centered on the Kaiparowits Plateau. It was well suited for an agrarian people who depended on permanent water sources, tillable land, and a large quantity of wildlife. Peoples from two branches of the Kayenta Anasazi settled on the plateau: those coming from the San Juan River area worked their way up the tributary canyons of the Escalante to the Kaiparowits; and Virgin River Kayenta Indians, from what is now the Zion National Park area, came to the Kaiparowits from the southwest.
+
+It is known that small groups from the Kaiparowits took periodic trips into the Escalante canyons, perhaps during the winter to escape the cold or during the spring and summer growing seasons. Routes were established between the Kaiparowits Plateau and most of the Escalante side canyons as well as into Llewellyn and Cottonwood gulches to the south.
+
+By A.D. 1200 Anasazi flight from the Escalante region was un-
+
+derway. Drought, internal conflict, lack of arable land, stream entrenchment, flash floods, a lack of wood, and outside aggressors have all been cited as the reason for abandonment. It is known that outlying groups started leaving first, working their way back to their ancestral lands on the east side of the Colorado River. The last Kayenta Anasazi to abandon the area were from Coombs village.
+
+The use and exploitation of Escalante lands by both Kayenta and Fremont Indians was extensive. There is virtually no side canyon, slot, draw, bench, or high point that does not show evidence of use. Sometimes it is a lithic scatter where the Indians sat fashioning stone implements while scouting the benches for game. In other places one can find rows of Moqui steps leading to large potholes in the deepest defiles. (Moqui steps are hand-and toeholds Indians pecked into steep rock walls.) Pictograph and petroglyph panels are almost ubiquitous along the river, in the side canyons, and near the summits of the highest points in the area.
+
+Contact between the Anasazi and Fremont was extensive and peaceful. Although they ranged the same region, they assumed different ecological niches: the Anasazi were primarily farmers who preferred the Kaiparowits Plateau and the canyons of the Escalante, while the Fremont, although also farmers, were primarily hunters who most often remained on the upland areas near Escalante Valley and below the Kaiparowits Plateau.
+
+The Indian presence in the Escalante area does not end with the Fremont and Anasazi. By A.D. 1300 Numic-speaking Indians from the southwestern Great Basin had entered the general area. These Ute, Piute, and Shoshoni Indians were not farmers; they were hunters and gatherers who roamed far and wide without establishing permanent settlements. Archaeologists have identified some of their temporary camps in the canyons near Boulder Valley, on the north edge of the Aquarius Plateau, and along the northeast side of the Kaiparowits Plateau.
+
+It was not until Mormon settlers arrived in Escalante Valley in the last half of the nineteenth century that first-hand knowledge of the local Indians became written down. Almon Thompson of the Powell survey of 1872 wrote of encountering a small tribe of Indians in Escalante Valley. Early pioneers told stories of meeting Piute Indians hunting on the Aquarius Plateau and in Boulder Valley. A small group that local Mormons called Escalante Indians lived in the valley, raising goats, farming, trapping, and weaving. In 1918 the few Escalante Indians left were moved to a settlement at Greenwich on the northwest side of the Aquarius Plateau.
+
+Before the Mormon settlers arrived in the Escalante area, Athabascan-speaking Navajo Indians living on the east side of the Colorado River had developed trails into the canyons of the Es-
+
+calante and to the Kaiparowits Plateau where they herded their livestock and hunted deer and bighorn sheep. Except for occasional problems with livestock theft, the settlers and Indians apparently got along fairly well.
+
+It is certain that many of the trails used by the settlers had first been established by Indians. These included routes to the top of the Kaiparowits Plateau, the general route of the Boulder Mail Trail, and dozens of others.

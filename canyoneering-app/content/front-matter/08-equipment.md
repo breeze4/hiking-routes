@@ -1,0 +1,42 @@
+---
+title: "Equipment"
+slug: equipment
+type: front-matter
+---
+
+> *As for backpacking, we all know the way it intensifies earthly gravity*.* Backpacking is awkward, ugly, monotonous, and lacks thrilling bodily sensations *.**.**.**.* Devoid of glamour, it is pure access*.<br><br>Bruce Berger, 1990
+It is not within the scope of this guide to provide comprehensive details on backcountry equipment. Books like Colin Fletcher's *The Complete Walker *cover backpacking thoroughly and at length. But, after many years of canyon hiking and guiding, I have found that desert camping presents some different problems than mountain hiking. The suggestions below are all tried and true techniques and will help you outfit yourself properly.
+
+*Backpacks: *The standard external frame backpack works well on the nontechnical routes, but for those venturing off trail, a good internal frame pack is essential. Such a pack will not throw you off balance on the climbing sections and does not have the metal bracing that always seems to catch when you are butt-scooting down sandstone slabs. Most of the high-quality internal frame packs also come with a built-in fanny pack which will do you well for those quick trips up a side canyon.
+
+*Tents: *Either freestanding or tie-down type tents work well in the desert. High winds are common in the Escalante. Make sure your tent can withstand winds in excess of eighty miles an hour. Except for the occasional campsite on the canyon floor, most of your camping will be on slickrock or desert cobble. Tent pegs will not work in these situations. Tie six-foot lengths of parachute cord to all of the tent hold-down loopseven on freestanding tents. The cords can be tied to rocks that, if moved, should be returned to their previous positions before breaking camp.
+
+Mountaineers often wax or silicone the tent's zippers to keep them from freezing. In the desert environment, these products catch the sand, which can lead to non-functioning or prematurely worn out zippers.
+
+*Stoves: *Sand in the desert kills stoves. Experienced desert rats prefer either Svea or Optimus stoves. Though a tad heavy and clunky, they are simple, simmer well, and will not get clogged by blowing sand. Whatever type of stove you do carry, know how to fix it and bring a repair kit.
+
+Wind will render even the best stove useless. Sandstone slab windbreaks tend not to work very well. Instead, bring a thick foil windscreen like the ones from Mountain Safety Research. It will solve the problem.
+
+Any gas, whether it is Coleman fuel or gasoline, has a short shelf life. That quart of fuel you've been storing in the garage for a couple of years will clog your stove. Use fresh fuel for every trip.
+
+*Footwear: *Heavy all-leather mountaineering-type boots are preferable for long trips with heavy loads unless you will be doing a lot of wading. Long-distance travel in the water will stretch most leather boots into oblivion. Many prefer composite boots made from both leather and syntheticsusually nylon and Gore-Tex. They are lighter and less expensive than the all-leather boots and seem to breathe better. Boots with nylon midsoles keep their shape better when wet than those made with leather.
+
+Composite boots do have one drawback in sandstone country. The external stitching wears out quickly. This problem can be alleviated by coating all of the seams with Barge Cement, which will act as a sacrificial layer. It can be reapplied from time to time.
+
+Camp shoes are essential. Tennis shoes are recommended. Often people bring sandals instead of tennis shoes for wading and camp wear. Sandals do not protect you as well as tennis shoes from cactus spines and jagged rocks. If your boots or feet fall apart, you cannot hike out in sandals. Tennis shoes give you an option. The smooth soles of tennis shoes also prove less damaging to the environment than lug-soled boots around camp, which lessens the impact.
+
+Since it is a cardinal sin to wade barefoot, your tennis shoes can be used when you only have to cross a river a time or two; if you will be spending a lot of time wading, wear your boots. Changing from hot, heavy, or perhaps wet boots into tennis shoes at the end of the day gives your feet a chance to breathe and will keep you from getting prune foot.
+
+The use of ankle gaiters will keep your socks clean by keeping the dirt and sand out. They work especially well when wading in rivers.
+
+*Raingear: *Rain suits are preferable in the backcountry. Ponchos flap around your legs and make it difficult and unsafe to negotiate steep rock faces or walk along narrow ledges.
+
+*Water containers: *On most hikes you should have the capacity to carry at least six quarts of water. The smoke-colored Nalgene water bottles do not pick up and hold the taste of drink mixes or iodine like standard plastic bottles.
+
+Carrying large quantities of water can be a trial. A Clorox-type bottle wrapped with a layer of duct tape is an inexpensive solution. The MSR Dromedary bags, though costly, are ideal. Lightweight water sacks are not dependable.
+
+*Insects: *Gnats, mosquitos, and no-see-ums can be controlled with almost any commercial Deet-based insect repellent. Mosquito netting for the head can be a godsend, especially at night.
+
+Deer flies are an entirely different matter; they are difficult to manage. These voracious insects can turn a summer sojourn into a nightmare. They are not only loud but also can bite through nearly anything. I remember one deer-fly-tainted trip on the Escalante River one summer with Kevin Shields. I still have the distinct picture of Kevin literally running upcanyon ahead of me, his back, legs, head, and pack completely covered with the little monsters.
+
+Mosquito netting for the head, a loose long-sleeved shirt that can be cinched at the wrists, and Levi-type or baggy pants seem to work well. Some may prefer nylon wind pants, but they are hot during the summer when the deer flies are out. Deer flies like to congregate near water and seem to prefer direct sunlight, so it is usually possible to avoid them by hiding in the shade or traveling away from watercourses.

@@ -1,0 +1,95 @@
+---
+title: "8. Big Horn Canyon"
+slug: big-horn-canyon
+type: hike
+region: "II"
+number: 8
+---
+
+### Season: {#season-7}
+
+Any.
+
+### Time: {#time-7}
+
+5.0 to 7.0 hours.
+
+### Elevation range: {#elevation-range-7}
+
+5160' to 5960'.
+
+### Water: {#water-7}
+
+There is no reliable water along this route. Bring your own drinking water.
+
+### Map: {#map-1}
+
+Tenmile Flat.
+
+### Skill level: {#skill-level-7}
+
+Moderate route finding. Class 3-scrambling. This is a moderate day-hike.
+
+### Special equipment {#special-equipment-7}
+
+None. :
+
+### Land status: {#land-status-7}
+
+This hike is in Grand Staircase-Escalante National Monument.
+
+When I first started exploring Big Horn Canyon and its environs I found I had stumbled onto a real gem. This rarely visited area contains a diversity of landforms that are unique in the Escalante areayellow-walled narrows, an area of sand dunes, a singular slot
+
+<figure>
+<img src="images/page_108_img_1.jpg" alt="">
+<figcaption>Ginger Harmon in the exit canyon.</figcaption>
+</figure>
+
+with distinctive horizontal banding, and a peculiar area of "staccato" slickrock (gray rock laced with red intrusions). Although a little long on slogging, the features encountered make this a worthwhile hike.
+
+The route starts on the Old Sheffield road and descends Big Horn Canyon to Harris Wash. An unnamed canyon and a short cross-country stretch through an area of domes leads back to the trailhead.
+
+### To Harris Wash {#to-harris-wash}
+
+(Tenmile Flat map and Map Eleven.) From the trailhead go south-southeast, passing the flat-topped dome mentioned in the road section (elevation 5844) on its right (W) side. Enter a shallow wash and follow it downcanyon. In fifteen minutes you reach a fall. Pass it on its left side via a steep slab (Class 4, lots of exposure) or go up and around to the left and descend a gully.
+
+The farther downcanyon you go, the better it gets. Textures and colors are the attraction. Short narrows in the Navajo are interspersed with sandy areas. The occasional drops are all easy to bypass. Colors become kaleidoscopic before the canyon withers into an endless Navajo corridor that empties into Harris Wash. A hanging fence marks the junction. (Map Twelve.) (1.5-2.0 hours.)
+
+### Down Harris Wash {#down-harris-wash}
+
+Hike down Harris Wash. Although this section is not particularly interesting, it is fun to contemplate wagonloads of Mormon pioneers and caravans of supply-laden mules going down the wash on their way to Halls Crossing.
+
+The walls slowly rise and are dominated by Navajo Sandstone topped with thin layers of Page Sandstone and Carmel Formation limestones. Thirty-five minutes from the mouth of Big Horn Canyon a wide side canyon enters on the right (W). This is Cottonwood Wash. Now keep an eye to the right (SW). The first time you clearly see some of the Kaiparowits Plateau through a break in the canyon wall marks the start of the exit route. This is twenty minutes below the mouth of Cottonwood Wash and is 150 yards before the wide mouth of Halfway Hollow, which enters on the right (W). (1.0-1.5 hours.)
+
+<p class="small">Geological note: This is the perfect viewpoint for figuring out Page Sandstone. Look west at the cliffs. On top you can see a thin brown layer of limestone (the Judd Hollow Member of the Carmel Formation). About forty feet below the limestone is a light-colored horizontal band. Above the band is the Harris Wash Tongue of Page Sandstone; below the band is Navajo Sandstone.</p>
+
+### Out of Harris Wash {#out-of-harris-wash}
+
+The exit canyon (shown one-quarter mile west of elevation 5579) starts as a wide sandy wash to the left (N). Within a quarter mile the wide wash enters a slot.
+
+<p class="small">Digression: You cannot get all the way through this short slot, but it is worth going up as far as possible if there is not too much water. Photographers favor this exceptional and unique slot.</p>
+
+<figure>
+<img src="images/page_110_img_1.gif" alt="">
+<figcaption>Map Eleven</figcaption>
+</figure>
+
+<figure>
+<img src="images/page_111_img_1.gif" alt="">
+<figcaption>Map Twelve</figcaption>
+</figure>
+
+<figure>
+<img src="images/page_112_img_1.jpg" alt="">
+<figcaption>The exit canyon.</figcaption>
+</figure>
+
+Pass the slot on the left (LUC) by scrambling up a slickrock slab. Make your way along the rim to the top of the slot.
+
+Look north. You will see two distinct tapered domes. (The dome to the left is located a quarter mile to the east of elevation 5731.) Follow the wash until you pass the left dome on its left (W) side. Once past the dome, a long stretch of sand dunes will be to your left.
+
+Follow the wash north-northeast below the dunes. After rounding a corner, the largest sandstone peak in the area will be visible to the northeast. To its left is a mesa with a prominent cave in its middle. Follow various washes and small canyons and pass the prominent cave mesa on its left (W) side. On the way to it you will cross a long stretch of what I call ''staccato" rock. Unique and dramatic.
+
+### To the trailhead {#to-the-trailhead-1}
+
+From the left side of the prominent cave mesa look north. You will see a pointed white dome (elevation 6150) on the far side of a small mesa. Pass the small mesa on its left (S) side. You will intersect an abandoned road that is now occasionally used by off-road vehicles. Follow it to the left (NW) until it ends. Now make your way northwest over a small rise. The trailhead should be visible. Descend a cliff band (several options) back to the start. (If you should get mixed up during any portion of the exit route, simply head north. You will intersect the Old Sheffield road.) (2.5-3.5 hours.)

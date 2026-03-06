@@ -21,23 +21,28 @@ html/
     text.txt                  ← combined extracted text (reference)
   stevens-canyon/
     index.html                ← Stevens Canyon & Baker Route (stub)
-  canyoneering-3/             ← Canyoneering 3 book — multi-page build
-    src/                      ← SOURCE: edit these files
-      template.html           ← shared page shell
-      style.css               ← shared CSS
-      nav.js                  ← runtime nav behavior
-      pages.json              ← page manifest
-      pages/                  ← HTML content fragments
+  canyoneering-3/             ← Canyoneering 3 book — BUILT OUTPUT
     index.html                ← BUILT: table of contents
-    *.html                    ← BUILT: individual pages (one per entry in pages.json)
-    style.css                 ← BUILT: copied from src/
-    nav.js                    ← BUILT: copied from src/
+    *.html                    ← BUILT: individual pages
+    style.css                 ← BUILT: copied from canyoneering-app/
+    nav.js                    ← BUILT: copied from canyoneering-app/
     images/                   ← extracted images
+canyoneering-app/             ← Canyoneering 3 build system — SOURCE
+  build.py                    ← builds pages from markdown content
+  template.html               ← shared page shell
+  style.css                   ← shared CSS
+  nav.js                      ← runtime nav behavior
+  content/                    ← markdown source files with YAML front matter
+    front-matter/             ← 12 intro/reference chapters
+    region-i/                 ← Box-Death Hollow Wilderness (hikes 1-3)
+    region-ii/                ← Highway 12 Area (hikes 5-9)
+    region-iii/               ← Hole-In-The-Rock (hikes 10-28)
+    region-iv/                ← Burr Trail (hikes 30-37)
+    back-matter/              ← bibliography, acknowledgments
 caltopo-extension/            ← Chrome extension for batch-adding CalTopo markers
   manifest.json               ← Manifest V3 config
   popup.html                  ← Extension popup UI
   popup.js                    ← Map ID detection, CSV parsing, API calls
-build.py                      ← builds canyoneering-3 pages from template + fragments
 input/                        ← private data sources (CSV, text files). Gitignored.
 extract.py                    ← PDF/EPUB text extractor. Done. Don't modify unless asked.
 output/                       ← raw extractor output. Don't edit — regenerate via extract.py.
@@ -47,7 +52,7 @@ output/                       ← raw extractor output. Don't edit — regenerat
 
 Static HTML files. No framework, no JS dependencies beyond what's inline in the HTML. CalTopo maps are embedded via iframes.
 
-**Canyoneering 3 build:** `build.py` assembles individual pages from source files in `html/canyoneering-3/src/` — `pages.json` manifest, `template.html` shell, and `pages/*.html` content fragments. It also copies `style.css` and `nav.js` to the output directory. Run `python3 build.py` from the repo root after editing any source file. Built HTML files are committed to git (opened directly in a browser, no server needed). Source files live in `src/`: `template.html`, `style.css`, `nav.js`, `pages.json`, `pages/*.html`.
+**Canyoneering 3 build:** `canyoneering-app/build.py` discovers markdown files in `canyoneering-app/content/`, parses YAML front matter, converts markdown to HTML via Python-Markdown, and assembles pages using `template.html`. No manifest file — page ordering is derived from directory structure and filename prefixes. Run `python3 canyoneering-app/build.py` from the repo root after editing any source file. Built HTML files are committed to git (opened directly in a browser, no server needed). Dependencies: `pyyaml`, `markdown` (both in system packages).
 
 **Formatting:** HTML files are formatted with `js-beautify` (2-space indent), which matches VS Code's built-in HTML formatter. VS Code has `editor.formatOnSave: true` enabled.
 
@@ -95,4 +100,4 @@ For the Muddy Creek trip, sections are:
 - Trip pages reorganized into per-trip directories
 - Stevens Canyon stub page created
 - CalTopo extension: implemented — manifest, popup UI, CSV parsing, and marker API calls
-- Canyoneering 3: full book split into 48 individual pages via build system
+- Canyoneering 3: full book as 48 markdown files, built to HTML via canyoneering-app/build.py

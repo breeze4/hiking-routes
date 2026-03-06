@@ -1,0 +1,117 @@
+---
+title: "27. Llewellyn and Cottonwood Gulches"
+slug: llewellyn-and-cottonwood-gulches
+type: hike
+region: "III"
+number: 27
+---
+
+### Llewellyn and Cottonwood GulchesHike #27 {#llewellyn-and-cottonwood-gulches}
+
+### Season: {#season-25}
+
+Spring or fall.
+
+### Time: {#time-25}
+
+14.5 to 21.5 hours. Three to four days.
+
+### Water: {#water-25}
+
+Water availability is a problem on this route. Lower Llewellyn and Cottonwood gulches have large springs.
+
+### Elevation range: {#elevation-range-25}
+
+3700' to 4550'.
+
+### Maps: {#maps-19}
+
+Davis Gulch and Nasja Mesa.
+
+### Skill level: {#skill-level-25}
+
+Difficult route finding. Class 5.4 climbing. The leader must be experienced with belay techniques and be capable of leading the climbing sections without protection. There is some exposure on this route and long distances between water sources. This is a moderately
+
+strenuous route that is for experienced canyoneers only. Familiarity with low-impact camping techniques is essential.
+
+### Special equipment: {#special-equipment-25}
+
+A fifty-foot rope is necessary.
+
+### Land status: {#land-status-25}
+
+This hike is in Glen Canyon National Recreation Area.
+
+From the trailhead the terrain covered by this hike looks like Willa Cather country, a land "that keeps no secrets." What you cannot immediately see, though, are the splendid canyons that have cut deep into Navajo Sandstone as well as through the detritus that has fallen from the heights of Fiftymile Mountain. Just because these canyons do not end at the Escalante River does not mean they are second-rate. Like all classics, they deserve your utmost attention.
+
+The route starts on the Hole-in-the-Rock road and follows the base of Sixty Point to the top of Llewellyn Gulch. It is followed down to Lake Powell. A cross-country hop leads to Lake Powell, then into Cottonwood Gulch. Follow the base of Sixty Point back to the trailhead.
+
+### To Llewellyn Gulch {#to-llewellyn-gulch}
+
+(Davis Gulch map and Map Thirty-four.) From the parking area look southeast at Fiftymile Point (labeled on the Nasja Mesa map) On the top of the point is the small Hole-in-the-Rock Arch. To the south, beyond the arch and a prominent prowand barely visibleis a bay that forms the head of the North Fork of Llewellyn Gulch. (The bay is shown to the east of elevation 5951T.) The second bay to the south (shown to the east of elevation 5952T) marks the top of the South Fork of Llewellyn Gulch, which is your immediate goal.
+
+It is easiest to hike near the base of the cliffs below the reddish Entrada Sandstone. Once you find it, a cattle trail makes for casual hiking. Do not make the mistake of cutting straight toward the first bay from the trailhead or you will encounter insurmountable problems.
+
+Cross the head of the North Fork.
+
+<p class="small">Rock climber's note: Instead of continuing to the South Fork, you can descend the North Fork. There are several rappels of up to thirty feet in length. Chockstones can be used to anchor a rope.</p>
+
+(Map Thirty-six.) Follow the cattle trail across several deep ravines into the second bay, which is marked by a couple of watering troughs. The South Fork starts as a wash at the troughs. (1.0-1.5 hours.)
+
+<figure>
+<img src="images/page_244_img_1.gif" alt="">
+<figcaption>Map Thirty-six</figcaption>
+</figure>
+
+<p class="small">Historical note: The canyon was named for Llewellyn Harris, for whom Harris Wash was also named. Harris ran cattle near the mouth of the Escalante River.</p>
+
+<p class="small">Before the Colorado River was dammed, river runners found an inscription in a cave that read: L. Harris April 24 1894. Arthur Chaffin, a river runner and Glen Canyon explorer, recounted a story about Llewellyn Harris to explorer Harry Aleson. Apparently a friend of his, gold miner Jack Butler, lent a burro to Harris, who used it on a trip into the Waterpocket Fold country. Caught in a snowstorm, Harris camped in a large cave for six weeks and ended up eating the burro. When asked about Llewellyn Harris years later, Butler told Chaffin: "That's the son-of-a-bitch that ate my burro!" The veracity of the story is not known.</p>
+
+### Down Llewellyn Gulch {#down-llewellyn-gulch}
+
+As you follow the wash down, it quickly turns into a narrow Navajo defile. There are several drops to negotiate (Class 5.4, 15'). All of them can be adequately belayed or hand lines can be used. These are some of the finest narrows in the Escalante area. The short side canyons you pass are worth exploring.
+
+The canyon widens and water and large cottonwoods appear. Look for a thin arch on a wall to the right (LDC) (one-quarter mile west-northwest of elevation 3940). Go around the corner below the arch. A steep slope to the right (W) is the exit route. There is good camping in the area. (2.0-4.0 hours.)
+
+<p class="small">Digression: A stroll down to the lake is rewarding. Depending on the water level of the lake, there may be good camping near it. (2.0-3.0 hours round-trip.)</p>
+
+<p class="small">Rock climber's note: Those wishing to exit the canyon on the left (LDC)(N) and return to the trailhead on a cross-country route over endless expanses of slickrock can do so. Twenty minutes downcanyon from the arch find two large overhangs divided by a steep prow. The prow is the only likely looking exit out of the canyon. Though the route is not technically difficult (Class 5.0, 100'), there is horrendous exposure.</p>
+
+### To Lake Powell {#to-lake-powell-1}
+
+Exit Llewellyn Gulch via the steep slope to the right (W) below the arch. Note the constructed section of an old cattle trail as you hike through the first band of Navajo Sandstone. Make your way southeast to the rim of the canyon. (0.5 hours.)
+
+You are now in a harsh, barren wonderland of Navajo slickrock, domes, and small washes. The goal is to hike generally southeast to the highest point in the area (labeled as U76 or elevation 4535). As you work your way upward, the rounded bulk of Navajo Mountain
+
+becomes visible to the southeast. Walk toward the small peak that is on Navajo Mountain's left (N) side.
+
+The high point is difficult to identify. There are several small knobs and domes that are all about the same elevation. The true high point has a small cairn on its summit and the name KIRSTEIN is inscribed on the rock below it. You may have to check several possible high points before you find the correct one. (2.5-3.5 hours.)
+
+From KIRSTEIN, go east for a short distance and descend a steep slab into a steep south-running drainage. The drainage leads down to an expanse of slickrock below a cliff. There are several large potholes and excellent camping sites in the area. (0.5 hours.)
+
+<p class="small">Digression: To get to the lake, walk south and descend very steep slickrock (Class 4-). You may have to do some scouting to find the easiest route. There is fine camping at the lake.</p>
+
+### To Cottonwood Gulch {#to-cottonwood-gulch}
+
+Return to KIRSTEIN, then hike west-northwest to the rim of Cottonwood Gulch. Follow its rim upcanyon to the first obvious break in the canyon wall, a wide bowl (located one-eighth mile east of elevation 3997). A constructed cattle trail in the bowl takes you into Cottonwood Gulch, which was named by the USGS in 1951. (3.5-5.0 hours.)
+
+### Cottonwood Gulch {#cottonwood-gulch}
+
+Immediately downcanyon are three large caves on the left. Rock climbers can have fun ascending Moqui steps into two of the caves. Water starts flowing a short distance downcanyon and there is good camping in the area. Lake Powell is a half-hour walk. There is much to see and explore in this canyon. (1.0 hour.)
+
+### Exit Cottonwood Gulch {#exit-cottonwood-gulch}
+
+Return to the foot of the cattle trail near the three large caves and proceed upcanyon for a couple of minutes. Rock climbers can duck into a scenic slot on the right and follow it up the canyon (Class 5.2, 10'). Others can hike up a brush-covered hillside to the left (LUC) of the slot and reenter the canyon in a quarter mile.
+
+In fifteen minutes the canyon divides. Exit the canyon here by going southwest up a steep hill between the two forks of the canyon (over elevation 4312T) (Class 3 +). (1.0-1.5 hours.)
+
+<p class="small">Digression: Both forks of the canyon contain impressive narrows.</p>
+
+### Back to the trailhead {#back-to-the-trailhead-7}
+
+Hike to the foot of Sixty Point and follow the cattle trail back to the trailhead. (2.5-4.0 hours.)
+
+<figure>
+<img src="images/page_247_img_1.jpg" alt="">
+<figcaption>Slot near Cottonwood Gulch.</figcaption>
+</figure>
