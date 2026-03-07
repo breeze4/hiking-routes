@@ -4,6 +4,8 @@ slug: stevens-and-fold-canyons
 type: hike
 region: "III"
 number: 22
+map: E08J
+map_zoom: 13
 ---
 
 ### Stevens and Fold Canyons Hike #22 {#stevens-and-fold-canyons}

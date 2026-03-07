@@ -247,13 +247,135 @@ ol.toc-hikes + .toc-back {
 }
 .toc-back a:hover { color: #0066cc; }
 
+/* ── Resources section ── */
+.resources {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid #ddd;
+}
+
+.resources h3 {
+  font-size: 1rem;
+  color: #555;
+  margin-bottom: 0.5rem;
+}
+
+.resources ul {
+  list-style: none;
+  padding: 0;
+}
+
+.resources li {
+  margin-bottom: 0.4em;
+  font-size: 0.9em;
+  color: #555;
+}
+
+.resources a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+.resources a:hover {
+  text-decoration: underline;
+}
+
+/* ── Map panel layout ── */
+body.has-map {
+  max-width: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  height: 100vh;
+  overflow: hidden;
+}
+
+body.has-map main.content {
+  width: 680px;
+  flex-shrink: 0;
+  overflow-y: auto;
+  padding: 2rem 1rem 4rem;
+}
+
+body.has-map .map-panel {
+  flex: 1;
+  min-width: 300px;
+}
+
+body.has-map .map-panel iframe {
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+
+.map-toggle {
+  position: sticky;
+  top: 0.5rem;
+  z-index: 200;
+  float: right;
+  padding: 0.2rem 0.5rem;
+  font: 11px/1.4 -apple-system, system-ui, sans-serif;
+  background: #f0f0ee;
+  border: 1px solid #ccc;
+  border-radius: 3px;
+  cursor: pointer;
+  color: #777;
+}
+
+.map-toggle:hover {
+  background: #e4e4e2;
+  color: #444;
+}
+
+/* Map hidden state */
+body.has-map.map-hidden {
+  display: block;
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+  height: auto;
+  overflow: visible;
+}
+
+body.has-map.map-hidden main.content {
+  width: auto;
+  overflow: visible;
+  padding: 0;
+}
+
+body.has-map.map-hidden .map-panel {
+  display: none;
+}
+
 @media (min-width: 1250px) {
   body {
+    margin-left: calc(250px + (100% - 250px - 680px) / 2);
+  }
+
+  body.has-map {
+    margin-left: 250px;
+  }
+
+  body.has-map.map-hidden {
     margin-left: calc(250px + (100% - 250px - 680px) / 2);
   }
 }
 
 @media (max-width: 1249px) {
+  body.has-map {
+    display: block;
+    height: auto;
+    overflow: visible;
+  }
+
+  body.has-map main.content {
+    width: auto;
+  }
+
+  body.has-map .map-panel {
+    display: none;
+  }
+
   nav.outline {
     position: fixed;
     left: 0; top: 0; right: 0;

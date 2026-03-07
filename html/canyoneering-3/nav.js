@@ -66,4 +66,15 @@
       nav.classList.remove('open');
     });
   });
+
+  // Map toggle (deferred — button is in content, after this script)
+  document.addEventListener('DOMContentLoaded', function() {
+    var mapToggle = document.querySelector('.map-toggle');
+    if (mapToggle) {
+      mapToggle.addEventListener('click', function() {
+        document.body.classList.toggle('map-hidden');
+        mapToggle.textContent = document.body.classList.contains('map-hidden') ? 'Show Map' : 'Hide Map';
+      });
+    }
+  });
 })();

@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 .source-pull-logs/
 screenshots/
+screenshot.png

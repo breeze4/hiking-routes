@@ -6,7 +6,7 @@
 <title>{{TITLE}} — Canyoneering 3</title>
 <link rel="stylesheet" href="style.css">
 </head>
-<body>
+<body{{BODY_CLASS}}>
 <nav class="outline">
   <div class="outline-toggle">
     <span class="outline-current">Contents</span>
@@ -17,7 +17,10 @@
   </div>
 </nav>
 <script src="nav.js"></script>
+<main class="content">
 {{CONTENT}}
+</main>
+{{MAP_PANEL}}
 <script src="../trips.js"></script>
 </body>
 </html>

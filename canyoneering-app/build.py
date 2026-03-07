@@ -102,6 +102,9 @@ def discover_pages():
                 "region": meta.get("region"),
                 "content_id": meta.get("content_id"),
                 "number": meta.get("number"),
+                "map": meta.get("map"),
+                "map_zoom": meta.get("map_zoom"),
+                "resources": meta.get("resources", []),
                 "html": html_content,
                 "file": str(md_path.relative_to(CONTENT_DIR)),
             })
@@ -237,6 +240,31 @@ def generate_index_content(pages):
     return "\n".join(lines)
 
 
+def render_resources(resources):
+    """Render a resources list from front matter into HTML."""
+    if not resources:
+        return ""
+    lines = ['<div class="resources">', '<h3>Resources and Trip Reports</h3>', '<ul>']
+    for res in resources:
+        if isinstance(res, str):
+            url = res
+            title = None
+            notes = None
+        else:
+            url = res.get("url", "")
+            title = res.get("title")
+            notes = res.get("notes")
+        display = title if title else url
+        line = f'<li><a href="{url}">{display}</a>'
+        if notes:
+            line += f' — {notes}'
+        line += '</li>'
+        lines.append(line)
+    lines.append('</ul>')
+    lines.append('</div>')
+    return "\n".join(lines)
+
+
 def build():
     pages = discover_pages()
     template = TEMPLATE.read_text()
@@ -247,7 +275,8 @@ def build():
     for page in pages:
         slug = page["slug"]
         title_heading = generate_title_heading(page)
-        full_content = title_heading + page["html"]
+        resources_html = render_resources(page.get("resources", []))
+        full_content = title_heading + page["html"] + resources_html
         page_contents[slug] = full_content
         page_headings[slug] = extract_h3_headings(full_content, slug)
 
@@ -260,9 +289,24 @@ def build():
         title = page["title"]
         content = page_contents[slug]
 
+        map_id = page.get("map")
+        body_class = ' class="has-map"' if map_id else ""
+        if map_id:
+            map_url = f"https://caltopo.com/m/{map_id}"
+            map_zoom = page.get("map_zoom")
+            if map_zoom:
+                map_url += f"?z={map_zoom}"
+            map_toggle = '<button class="map-toggle" title="Toggle map">Hide Map</button>'
+            map_panel = f'<div class="map-panel"><iframe src="{map_url}" allowfullscreen></iframe></div>'
+        else:
+            map_toggle = ""
+            map_panel = ""
+
         output = template.replace("{{TITLE}}", title)
         output = output.replace("{{NAV}}", nav_html)
-        output = output.replace("{{CONTENT}}", content)
+        output = output.replace("{{BODY_CLASS}}", body_class)
+        output = output.replace("{{CONTENT}}", map_toggle + content)
+        output = output.replace("{{MAP_PANEL}}", map_panel)
 
         out_path = BASE / f"{slug}.html"
         out_path.write_text(output)
@@ -272,7 +316,9 @@ def build():
     index_content = generate_index_content(pages)
     index_output = template.replace("{{TITLE}}", "Table of Contents")
     index_output = index_output.replace("{{NAV}}", nav_html)
+    index_output = index_output.replace("{{BODY_CLASS}}", "")
     index_output = index_output.replace("{{CONTENT}}", index_content)
+    index_output = index_output.replace("{{MAP_PANEL}}", "")
     (BASE / "index.html").write_text(index_output)
     print(f"  built index.html")
 
