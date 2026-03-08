@@ -58,7 +58,7 @@ The second route into Stevens Canyon country is presented in Hike #22.
 
 <p class="small">Historical note: The vague track you have been following was built by county officials in 1966 as part of a feasibility study for a proposed Trans-Escalante Federal Parkway road which would have tied Bullfrog Basin on Lake Powell to the town of Big Water in Arizona. For details on this road see the "Wilderness" chapter.</p>
 
-Locate a long fin of Navajo with a U-shaped gap extending northeast toward the river (shown one-half mile east of elevation 4484T). The Crack-in-the-Wall, a break in the Navajo, is 100 yards to the left (W) of the fin. After the first short drop it is most simple to lower packs down a twenty-five-foot wall rather than trying to squeeze them through the crack. Follow an established trail down a
+Locate a long fin of Navajo with a U-shaped gap extending northeast toward the river (shown one-half mile east of elevation 4484T). The Crack-in-the-Wall, a break in the Navajo, is 100 yards to the left (W) of the fin. After the first short drop it is most simple to lower packs down a twenty-five-foot wall rather than trying to squeeze them through the crack. Follow an established trail down a cliff dune to the left (W) side of a tower.
 
 <figure>
 <img src="images/page_194_img_1.gif" alt="">
@@ -75,7 +75,7 @@ Locate a long fin of Navajo with a U-shaped gap extending northeast toward the r
 <figcaption>Stevens Arch.</figcaption>
 </figure>
 
-cliff dune to the left (W) side of a tower. Multiple trails are a problem in this area. Stay on the trail! Stevens Arch can be seen to the northeast.
+Multiple trails are a problem in this area. Stay on the trail! Stevens Arch can be seen to the northeast.
 
 As you near Coyote Gulch, locate a trail that is thirty feet above the bottom of the canyon. (Do not hike down the streambed.) Follow the trail downcanyon, cross a steep slickrock slab (Class 3 +), and descend an eight-foot wall to the canyon floor. (1.5-2.5 hours.)
 
@@ -97,14 +97,14 @@ In fifteen minutes a trail goes up a slippery, poison-ivy-choked rockslide. Befo
 
 The route continues up Stevens Canyon. It passes a nice side canyon (shown to the north of elevation 4819T) coming in from the right (E). There are occasional poison ivy patches, willow and tamarisk thickets, and other small obstacles to overcome. The bushwhacking ends in an area of wonderfully fluted slickrock and varnished Wingate walls.
 
-At the end of the slickrock the canyon is blocked by a pour-off
+At the end of the slickrock the canyon is blocked by a pour-off (north-northwest of elevation 4883T).
 
 <figure>
 <img src="images/page_198_img_1.jpg" alt="">
 <figcaption>The Grotto and Hanging Arch in Stevens Canyon.</figcaption>
 </figure>
 
-(north-northwest of elevation 4883T). Note the Moqui steps on the right-hand wall. They lead into a short dead-end slot (Class 5.8, 25'). Happily, there is no more poison ivy for the remainder of the trip. There are large potholes and good campsites in the area. (2.5-3.5 hours.)
+Note the Moqui steps on the right-hand wall. They lead into a short dead-end slot (Class 5.8, 25'). Happily, there is no more poison ivy for the remainder of the trip. There are large potholes and good campsites in the area. (2.5-3.5 hours.)
 
 ### Up middle Stevens Canyon {#up-middle-stevens-canyon}
 
@@ -120,7 +120,8 @@ In thirty minutes the canyon divides three ways (south-southwest of elevation 50
 
 About nine minutes upcanyon from the elongated potholes the canyon turns right, from northwest to northeast. The Wingate wall to the right (E) is short and broken. At the far side of the corner a short section of constructed cattle trail is barely visible twenty-five feet above the ground. This is the Baker Trail and the exit route. (If you go too far upcanyon you will see a long straight stretch lined with grasses, willows, and cottonwoods that is marked as a spring one-quarter mile south-southwest of elevation 5170T on the map.) The spring has a large flow of water and there is camping in the area. (1.5-2.5 hours.)
 
-<p class="small">Warning: The next part of the hike, along the Baker Trail to the top of the Waterpocket Fold, takes a long day that includes a lot of elevation gain, route-finding problems, and no water. Make sure you</p>
+<p class="small">Warning: The next part of the hike, along the Baker Trail to the top of the Waterpocket Fold, takes a long day that includes a lot of elevation gain, route-finding problems, and no water. Make sure you are prepared. A jump start the night before or a crack-of-dawn start is essential.
+</p>
 
 <figure>
 <img src="images/page_200_img_1.gif" alt="">
@@ -132,7 +133,6 @@ About nine minutes upcanyon from the elongated potholes the canyon turns right, 
 <figcaption>Wendy Chase and Solo in upper Stevens Canyon.</figcaption>
 </figure>
 
-are prepared. A jump start the night before or a crack-of-dawn start is essential.
 
 ### Exit Stevens Canyon {#exit-stevens-canyon}
 
@@ -142,9 +142,7 @@ Exit the canyon via the Baker Trail to the northeast. The constructed part is ve
 
 Within ten minutes intersect and follow the Wingate rim of a side canyon coming in from the east (shown to the east of elevation 5170T). Follow along the serpentine course of the side canyon on top of undulating waves of slickrock for a half hour until the Wingate tapers down and a trail drops to the bottom of the canyon. Hike up the canyon. There are medium potholes in the canyon and, if the potholes are full, this area could be used for camping.
 
-(Stevens Canyon North map.) Minutes after you enter the canyon a very small side canyon comes in on the left (NW) at the end of the Wingate. One minute past the small side canyon there is
-
-another small canyon to the left (N) with two cottonwoods and a pinyon pine near its mouth (shown one-eighth mile south-southeast of elevation 5419AT.) A large cairn is immediately downcanyon in front of a large juniper tree. You will exit the canyon here. (If you go too far, the canyon ends in a fall.)
+(Stevens Canyon North map.) Minutes after you enter the canyon a very small side canyon comes in on the left (NW) at the end of the Wingate. One minute past the small side canyon there is another small canyon to the left (N) with two cottonwoods and a pinyon pine near its mouth (shown one-eighth mile south-southeast of elevation 5419AT.) A large cairn is immediately downcanyon in front of a large juniper tree. You will exit the canyon here. (If you go too far, the canyon ends in a fall.)
 
 ### Exit the side canyon {#exit-the-side-canyon}
 
@@ -156,9 +154,7 @@ At the top of the hill you will find yourself in a shallow drainage for 100 yard
 
 <p class="small">Historical note: As you walk along you will notice depressed areas containing innumerable flakes of chert, jasper, and chalcedony. These are called lithic scatters and are evidence of the Anasazi Indians who roamed the Waterpocket Fold during the late Basketmaker II period (approximately A.D. 500). The scatters consist of the chips left over when the Indians flaked larger pieces of rock into cutting tools, spear points, and scrapers. The base rock used for chipping was not available on the top of the Waterpocket Fold; it was carried from outcrops found in the Halls Creek area. Please leave the chips in place and do not collect them.</p>
 
-<p class="small">Digression: To locate the section of the Baker Trail that goes east down the cliffs to lower Halls Creek, first locate the small hill</p>
-
-<p class="small">shown at elevation 5658T. Pick up the trail a quarter mile northeast of the hill. It can be hard to follow in places, though cairns do help. The trail ends a quarter mile northeast of elevation 4032T on the Hall Mesa map. (2.0-3.0 hours.)</p>
+<p class="small">Digression: To locate the section of the Baker Trail that goes east down the cliffs to lower Halls Creek, first locate the small hill shown at elevation 5658T. Pick up the trail a quarter mile northeast of the hill. It can be hard to follow in places, though cairns do help. The trail ends a quarter mile northeast of elevation 4032T on the Hall Mesa map. (2.0-3.0 hours.)</p>
 
 ### To Cliff {#to-cliff}
 
@@ -193,14 +189,12 @@ At the next impassable fall there is a large reed-filled pothole. Exit the canyo
 
 The route gets complicated. Pay close attention to the text and to your maps. Proceed to the north end of the saddle until you come against a Navajo dome. Descend a chute to the west. Traverse southwest, following a bighorn sheep trail along Kayenta ledges. (Do not drop to the top of the Wingate.) (Map Twenty-eight.) Scramble up to the first notch in the Navajo ridge to the left (S). The notch has a dome in its middle. (The notch is one-half mile east-northeast of elevation 5816T.) (1.0-1.5 hours.)
 
-From the notch, look south across the canyon to another notch
+From the notch, look south across the canyon to another notch in the Navajo. Cross the canyon and hike into that notch. (The notch is one-eighth mile northeast of elevation 5673T.)
 
 <figure>
 <img src="images/page_206_img_1.gif" alt="">
 <figcaption>Map Twenty-eight</figcaption>
 </figure>
-
-in the Navajo. Cross the canyon and hike into that notch. (The notch is one-eighth mile northeast of elevation 5673T.)
 
 From the notch, look south into the next canyon. You will see two canyons coming together in a "Y," with a twenty-foot pinnacle at their junction (one-eighth mile east-southeast of elevation 5673T). Descend a steep Kayenta wall to the south. The route is tricky; it has loose rock and may take some scouting (Class 4, lower packs). Descend the canyon on its left (LDC) side until you are below the pinnacle at the "Y." Cross the short canyon that forms the left arm of the "Y." There are large potholes in both canyons. Hike southeast to the top of the Wingate. There is excellent slickrock camping in the area. (1.0-1.5 hours.)
 
@@ -212,14 +206,12 @@ Descend Kayenta ledges south to the rim of another canyon (shown one-quarter mil
 
 ### Descend to the Escalante River {#descend-to-the-escalante-river}
 
-The route finding becomes even more tricky. Looking southwest, you will see a broken promontory of rock and a long talus slope extending northeast to southwest toward the Escalante River. (The promontory is shown one-quarter mile east of elevation 5095T and immediately south of a marked 4200-foot contour line.) Traverse southwest along the face of the escarpment, going up Kayenta ledges only as needed in order to make further progress. Look for a bighorn trail. After going about seventy-five feet above the Wingate,
+The route finding becomes even more tricky. Looking southwest, you will see a broken promontory of rock and a long talus slope extending northeast to southwest toward the Escalante River. (The promontory is shown one-quarter mile east of elevation 5095T and immediately south of a marked 4200-foot contour line.) Traverse southwest along the face of the escarpment, going up Kayenta ledges only as needed in order to make further progress. Look for a bighorn trail. After going about seventy-five feet above the Wingate, you will be forced onto a three-to five-foot-wide ledge. The ledge cuts horizontally across the face of the cliff for 200 yards and ends at the top of a slope leading out to the promontory. It is best to scout the route without a pack. Search carefully, as the ledge looks like it peters out in several places. (If you go too high, you will find yourself on a-wide ledge below a Navajo cliff and you will walk above the desired ledge system.)
 
 <figure>
 <img src="images/page_208_img_1.gif" alt="">
 <figcaption>Map Twenty-nine</figcaption>
 </figure>
-
-you will be forced onto a three-to five-foot-wide ledge. The ledge cuts horizontally across the face of the cliff for 200 yards and ends at the top of a slope leading out to the promontory. It is best to scout the route without a pack. Search carefully, as the ledge looks like it peters out in several places. (If you go too high, you will find yourself on a-wide ledge below a Navajo cliff and you will walk above the desired ledge system.)
 
 <p class="small">Warning: The ledge is not technically difficult (Class 3 +), but it is very scary. Belays can be utilized. In one place packs should be lowered to assure that hikers are not accidentally launched off the ledge.</p>
 
@@ -231,14 +223,13 @@ Hike north up the west side of the Escalante River (no wading) for twenty minute
 
 The Scorpion Horse Trail turns northwest at the brush fence. You will leave the trail here. Go generally south on a wide Kayenta bench, cross a couple of small canyons, and head others. After forty-five minutes the trail goes under the back of a larger canyon that has two distinct alcoves. Past this the trail crosses a wide plain in front of another side canyon. The Kayenta ledge narrows considerably and you will see a Navajo dome toward the end of a ridge on the right (LDC). This is the first break in the Navajo wall and it is the exit route. (If you go too far, the trail turns sharply south at a corner and goes toward the back of a long side canyon or bay.) (The ridge is shown one-quarter mile east-northeast of elevation 5120T and just northwest of a marked 4600-foot contour line.)
 
-Climb up the Kayenta (Class 4, haul packs) and locate a pour-off between the Navajo wall and the Navajo dome. Ascend a crack on the right side of the pour-off (Class 5.2, 10' of climbing, 25' of exposure, belay and haul packs). Follow the drainage up for 100 yards until it divides. Go west up the prow between drainages and work southwest until you are between two squat, elongated, Carmel-topped domes. The dome to the left is flat-topped; the dome to the
+Climb up the Kayenta (Class 4, haul packs) and locate a pour-off between the Navajo wall and the Navajo dome. Ascend a crack on the right side of the pour-off (Class 5.2, 10' of climbing, 25' of exposure, belay and haul packs). Follow the drainage up for 100 yards until it divides. Go west up the prow between drainages and work southwest until you are between two squat, elongated, Carmel-topped domes. The dome to the left is flat-topped; the dome to the right is rounded. Without a pack, hike to the top of the dome to the left (E). (1.5-2.0 hours.)
 
 <figure>
 <img src="images/page_210_img_1.gif" alt="">
 <figcaption>Map Thirty</figcaption>
 </figure>
 
-right is rounded. Without a pack, hike to the top of the dome to the left (E). (1.5-2.0 hours.)
 
 ### Into Fools Canyon {#into-fools-canyon}
 
@@ -252,9 +243,7 @@ From the top of the dome go south-southeast across a juniper-studded plain and d
 
 Make your way to the top of the rib and descend it, traveling southwest into the bowl. Note the steps hacked into the rock to facilitate getting horses up and down. Walk to the south end of the bowl. A wide side canyon drops into Fools Canyon, and the long peninsula will be on the left (LDC)(E). To the right of center is a rubble heap that goes down the Navajo and into the canyon.
 
-Do not drop to the bottom of the canyon; instead, follow a game trail down the right side of the canyon on a Kayenta bench until the Navajo ridge on the right ends at a prow. From the end of the
-
-prow, descend to the bottom of a canyon to the right (NW) by first hiking upcanyon for 200 yards, then zigzagging down steep ledges to the floor of the canyon (Class 4-). Follow the canyon into Fools Canyon.
+Do not drop to the bottom of the canyon; instead, follow a game trail down the right side of the canyon on a Kayenta bench until the Navajo ridge on the right ends at a prow. From the end of the prow, descend to the bottom of a canyon to the right (NW) by first hiking upcanyon for 200 yards, then zigzagging down steep ledges to the floor of the canyon (Class 4-). Follow the canyon into Fools Canyon.
 
 Thrash your way up Fools Canyon through thick vegetation for ten minutes until you are above a huge deep poolthe ultimate swim hole if water is flowing. (Immediately above the pool the thrashing ends and the canyon floor becomes slickrock.) There is camping in the area. (1.5-2.0 hours.)
 
@@ -276,9 +265,7 @@ Descend along the left (LDC) rim of a slot canyon that starts at the pass and go
 
 <p class="small">Note: Large potholes can be found in breaks in the slot and there is great camping along the slickrock. Remember, Coyote Gulch is being adversely impacted by campers. It is best to arrange your itinerary so you do not have to camp in Coyote Gulch.</p>
 
-The slot ends above lower Sleepy Hollow, a wide canyon with towering walls and a profusion of cottonwoods along its floor. Simply continue along the rim for another couple of minutes until you
-
-can descend moderate slickrock southwest into lower Sleepy Hollow. You may find a short piece of constructed cattle trail near the bottom.
+The slot ends above lower Sleepy Hollow, a wide canyon with towering walls and a profusion of cottonwoods along its floor. Simply continue along the rim for another couple of minutes until you can descend moderate slickrock southwest into lower Sleepy Hollow. You may find a short piece of constructed cattle trail near the bottom.
 
 <p class="small">Digression: Lower Sleepy Hollow has a perennial flow of water. The upper reaches of the canyon are exceptional. A slot canyon that starts on King Mesa (between elevations 5112 and 5142) and ends at a fall in lower Sleepy Hollow has been named the Big Tony Fork of Sleepy Hollow. Tony Merten died on his farm in New Mexico in February 1996. His gargantuan size, unlimited physical strength, and unbridled persona perfectly match this slot canyon's character. With his wild red-blond hair and beard, Tony was instantly recognizable to all who encountered him in the canyons or along the windswept desert slickrock he loved so much and worked so hard to preserve. Perhaps all who pass will pay silent homage to Big Tony and to others who have cared about canyon country but can no longer be here to enjoy and be enthralled by it.</p>
 
