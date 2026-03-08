@@ -39,6 +39,16 @@ canyoneering-app/             ← Canyoneering 3 build system — SOURCE
     region-iii/               ← Hole-In-The-Rock (hikes 10-28)
     region-iv/                ← Burr Trail (hikes 30-37)
     back-matter/              ← bibliography, acknowledgments
+georef-app/                   ← Georeferencing tool — SOURCE
+  server.py                   ← FastAPI entry point + static file mount
+  config.py                   ← Settings (image dir, data dir, port)
+  models.py                   ← Pydantic API models
+  api/                        ← API routers (images, transform, export, persistence, autotrace)
+  processing/                 ← Image processing (autotrace OpenCV pipeline)
+  frontend/                   ← SPA frontend (vanilla ES modules, no build step)
+    index.html                ← Shell HTML
+    css/style.css             ← Styles
+    js/                       ← app.js, api.js, canvas.js, gcp.js, trace.js, autotrace.js, persistence.js
 caltopo-extension/            ← Chrome extension for batch-adding CalTopo markers
   manifest.json               ← Manifest V3 config
   popup.html                  ← Extension popup UI

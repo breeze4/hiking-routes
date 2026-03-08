@@ -6,3 +6,5 @@ __pycache__/
 .source-pull-logs/
 screenshots/
 screenshot.png
+georef-data/
+tmp/
