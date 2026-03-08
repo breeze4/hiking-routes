@@ -47,6 +47,10 @@
       if (!line) continue;
 
       const parts = line.split(",").map((s) => s.trim());
+
+      if (markers.length === 0 && errors.length === 0 && isNaN(parseFloat(parts[1]))) {
+        continue;
+      }
       if (parts.length < 3) {
         errors.push("Line " + (i + 1) + ": need name,lat,lon");
         continue;
