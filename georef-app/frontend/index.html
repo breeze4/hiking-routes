@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Georef Tool</title>
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+</head>
+<body>
+
+<div id="sidebar">
+  <div class="view-toggle">
+    <button id="btn-view-georef" class="active">Georef</button>
+    <button id="btn-view-overlay">Overlay</button>
+  </div>
+
+  <!-- Georef sidebar -->
+  <div id="georef-sidebar">
+    <select id="image-select"><option value="">Select map image...</option></select>
+
+    <div class="mode-toggle">
+      <button id="btn-gcp" class="active">GCP Mode</button>
+      <button id="btn-trace">Trace Mode</button>
+    </div>
+
+    <div id="status">Click on the map to place points</div>
+
+    <!-- GCP Section -->
+    <div id="gcp-section">
+      <h2>Ground Control Points</h2>
+      <div class="coord-input">
+        <label>Coords</label><input id="gcp-coords" type="text" placeholder="37.41907, -111.04314" style="flex:3">
+      </div>
+      <div class="btn-row">
+        <button id="btn-set-coords">Set Coords</button>
+        <button id="btn-undo-gcp">Undo</button>
+      </div>
+      <table id="gcp-table">
+        <thead><tr><th>#</th><th>Pixel</th><th>Lat, Lon</th><th>Err</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      <div class="btn-row">
+        <button id="btn-compute-transform">Compute Transform</button>
+      </div>
+    </div>
+
+    <!-- Trace Section -->
+    <div id="trace-section" style="display:none">
+      <h2>Route Trace</h2>
+      <div class="coord-input">
+        <label>Name</label><input id="wp-name" type="text" placeholder="WP001">
+      </div>
+      <div class="btn-row">
+        <button id="btn-undo-wp">Undo</button>
+        <button id="btn-export-csv">Export CSV</button>
+      </div>
+      <table id="wp-table">
+        <thead><tr><th>#</th><th>Name</th><th>Pixel</th></tr></thead>
+        <tbody></tbody>
+      </table>
+      <textarea id="csv-output" readonly placeholder="CSV output will appear here..."></textarea>
+
+      <h2 style="margin-top:8px">Auto-Trace</h2>
+      <div class="btn-row">
+        <button id="btn-autotrace">Detect Routes</button>
+      </div>
+      <div id="auto-routes"></div>
+      <details style="font-size:11px; margin-top:4px">
+        <summary style="cursor:pointer; color:#888">Parameters</summary>
+        <div class="coord-input" style="margin-top:4px">
+          <label>Thresh</label><input id="at-threshold" type="number" value="" placeholder="auto">
+        </div>
+        <div class="coord-input">
+          <label>Bridge</label><input id="at-bridge" type="number" value="11">
+        </div>
+        <div class="coord-input">
+          <label>Min area</label><input id="at-min-area" type="number" value="200">
+        </div>
+        <div class="coord-input">
+          <label>Prune</label><input id="at-prune" type="number" value="20">
+        </div>
+        <div class="coord-input">
+          <label>Epsilon</label><input id="at-epsilon" type="number" value="3.0" step="0.5">
+        </div>
+      </details>
+    </div>
+
+    <div style="margin-top:auto">
+      <div id="save-status" style="font-size:11px; padding:4px 0; min-height:18px;"></div>
+      <div class="btn-row">
+        <button id="btn-save">Save</button>
+        <button id="btn-load">Load</button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Overlay sidebar -->
+  <div id="overlay-sidebar" style="display:none">
+    <div id="overlay-images-section">
+      <h2>Images</h2>
+      <div id="image-list"></div>
+    </div>
+
+    <div id="overlay-points-section">
+      <h2>Points</h2>
+      <div class="btn-row">
+        <button id="btn-place" title="Click map to place points">Place Points</button>
+        <button id="btn-undo-point">Undo</button>
+      </div>
+      <table id="points-table">
+        <thead><tr><th>#</th><th>Name</th><th>Lat</th><th>Lon</th><th></th></tr></thead>
+        <tbody></tbody>
+      </table>
+      <div class="btn-row">
+        <button id="btn-export-points">Export CSV</button>
+        <button id="btn-copy-points">Copy</button>
+      </div>
+      <textarea id="points-csv-output" readonly placeholder="CSV output appears here"></textarea>
+    </div>
+  </div>
+</div>
+
+<div id="canvas-wrap">
+  <canvas id="canvas"></canvas>
+</div>
+
+<div id="map-wrap" style="display:none">
+  <div id="map"></div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script type="module" src="js/app.js"></script>
+</body>
+</html>
